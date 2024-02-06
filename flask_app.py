@@ -1,10 +1,8 @@
 from flask import Flask, render_template, request, url_for, redirect
-from flask_sqlalchemy import SQLAlchemy
 from flaskext.markdown import Markdown
 import html2text
 import re
-import itertools
-import json 
+
 import numpy as np 
 import os
 

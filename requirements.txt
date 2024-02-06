@@ -1,0 +1,11 @@
+Flask==2.0.2
+Flask_Bcrypt==1.0.1
+gensim==4.2.0
+html2text==2020.1.16
+nltk==3.6.5
+numpy==1.22.4
+pandas==1.4.4
+requests==2.22.0
+setuptools==65.5.1
+spacy==3.2.4
+toolz==0.11.1

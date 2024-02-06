@@ -8,7 +8,6 @@ from spacy.tokens import Doc, Span, Token
 from spacy.symbols import ORTH 
 from spacy import util
 from spacy.tokenizer import Tokenizer
-from spacy_html_tokenizer import create_html_tokenizer
 from gensim.utils import tokenize
 
 fulltag_pattern = r'<[\w\d/\'\"\.=\:]+[ ][\w\s\d/ _\'\"\.=\:\-?\&\#\;\<%]+>'

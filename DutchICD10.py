@@ -1,10 +1,8 @@
 import os, os.path
-#import pymedtermino
 import sqlite3 as sql_module
 import pandas as pd
 
 #from guidelines.models import *
-from django.apps import apps
 
 
 _TERMSEARCHQUERY  = "SELECT Concept.code FROM Concept, Concept_fts WHERE Concept_fts.term MATCH ? AND Concept.id = Concept_fts.docid"

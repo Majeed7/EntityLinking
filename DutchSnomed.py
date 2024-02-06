@@ -1,8 +1,6 @@
 import sqlite3 as sql_module
 import sys, os, os.path
 from dbCreation.Mapping import *
-import json 
-from gensim.utils import tokenize
 from nltk.tokenize import word_tokenize
 from DutchICD10 import *
 
