@@ -6,6 +6,8 @@ moduletagging.py
 *.xml 
 *.xlsx
 .gitignore 
+.DS_Store
+
 
 $ git check-ignore __pycache__/
 __pycache__/
