@@ -30,13 +30,14 @@ toolz==0.11.1
 ```
 
 Additional requirements for the Flask visualization app include:
-
+```
 Flask==2.0.2
-
 Flask_Bcrypt==1.0.1
-
 html2text==2020.1.16
+```
 
+### Entity Linking for Other Languages
+To extend the EntityLinking package for use with languages other than Dutch, the key step involves incorporating the appropriate SNOMED CT and ICD-10 terminologies for the target language. This process begins by obtaining the SNOMED and ICD-10 terminology files, which are essential for the entity-linking process. Once these terminology files are acquired, users can utilize the provided scripts in the `dbCreation` directory to construct searchable databases from these terminologies. These databases should then be placed in the `data` folder of this package. This adaptation allows the package to be applied to biomedical text analysis across different linguistic contexts.
 
 ### Usage
 Below is an example illustrating how to apply the EntityLinking method to analyze a snippet of Dutch biomedical text:
@@ -63,6 +64,9 @@ For academic use of EntityLinking or references within research, please cite the
   publisher={Elsevier},
   doi={10.xxxx/xxxxxx}
 }
+
+### Contact
+For any questions or inquiries regarding the EntityLinking package, please feel free to reach out to Majid Mohammadi (majid.mohammadi690@gmail.com). We welcome your feedback and are here to assist with any issues or clarifications you may need.
 
 
 
