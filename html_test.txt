@@ -1,0 +1,2050 @@
+<article class="module article mb-5">
+<table border="1" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Schat het risico op hart en vaatziekten bij personen met vermoedelijk een verhoogd risico, bijvoorbeeld bij:</p>
+<ul>
+<li>een belaste familieanamnese voor premature hart- en vaatziekten, vermoeden van erfelijke dyslipidemie;</li>
+<li>de aanwezigheid van risicofactoren, zoals roken, obesitas, verhoogde bloeddruk of cholesterol;</li>
+<li>risicoverhogende comorbiditeit.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+                <header class="mb-4">
+                    <div class="mb-2">
+                         <h1 class="h3 d-inline"> Samenvatting CVRM </h1>
+                          <br />
+                        
+                            <button class="btn btn-tooltip-xs border mb-2 ml-2" data-toggle="tooltip" data-trigger="click" data-placement="top" data-title="<a class='' href='&amp;#x2F;user&amp;#x2F;auth&amp;#x2F;login' data-fancybox data-type='ajax' rel='nofollow'> 
+                               <span class='fas fa-plus mr-2' aria-hidden='true'></span>Volgen</a><a class=&quot;share-btn&quot; href=&quot;#&quot;>    <span class=&quot;fas fa-link fa-sm mr-2&quot; aria-hidden=&quot;true&quot;></span>Delen</a>" data-html="true" data-original-title="" title="">
+                                <span class="far fa-ellipsis-h d-block" aria-hidden="true"></span>
+                                <span class="sr-only">Opties</span>
+                            </button>
+
+                                            </div>
+
+                    
+                    <div>
+                        <a class="text-muted font-size-sm text-decoration-none" href="/info?moduleId=18298" rel="nofollow" data-fancybox="" data-type="ajax">
+                            <strong>Beoordeeld:</strong>
+                            06-03-2019                        </a>
+                    </div>
+
+                                    </header>
+
+                
+                
+                                                    
+                
+<p><strong>Inleiding</strong></p>
+<p>In deze module wordt een samenvatting gegeven van de richtlijn Cardiovasculair risicomanagement (CVRM). Voor de wetenschappelijke onderbouwing en andere aanvullende informatie verwijzen we naar de respectievelijke modules.</p>
+<p>&nbsp;</p>
+<p>Voor patiënteninformatie verwijzen we naar <a href="https://www.thuisarts.nl/risico-hart-en-vaatziekten-verlagen" target="_blank" rel="noopener">Thuisarts.nl</a>.</p>
+<p>&nbsp;</p>
+<p><strong>Submodule 1.1 Bij wie wordt het risico op hart- en vaatziekten geschat?</strong></p>
+<p>De meeste richtlijnen kiezen voor een combinatie van opportunistische screening (bijvoorbeeld bij personen die de huisarts consulteren) en systematische screening (bijvoorbeeld het oproepen van mannen of vrouwen van een bepaalde leeftijd). Deze richtlijn houdt dit ook aan. Het precies schatten van het risico op hart- en vaatziekten bij personen met een laag risico op hart- en vaatziekten is niet nuttig. In Nederland hebben huisartsen een belangrijke rol bij het opsporen van personen met een verhoogd risico op hart- en vaatziekten en bij het bepalen of deze in aanmerking komen voor interventies. Het schatten van het risico op hart- en vaatziekten is geen eenmalige gebeurtenis; het moet worden herhaald, bijvoorbeeld elke vijf jaar.</p>
+<p>&nbsp;</p>
+<p><strong>Aanbevelingen</strong></p>
+
+<p>&nbsp;</p>
+<table border="1" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Herhaal de schatting van het risico op hart- en vaatziekten, bijvoorbeeld elke vijf jaar of vaker indien het geschatte risico dichtbij een behandelgrens ligt.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Een schatting van het risico op hart- en vaatziekten kan overwogen worden bij mannen ≥ 40 jaar en postmenopausale vrouwen of vrouwen ≥ 50 jaar.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Zie af van systematische schatting van het risico op hart- en vaatziekten bij mannen &lt;40 jaar en vrouwen &lt;50 jaar zonder bekende risicofactoren.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Submodule 1.2 Hoe wordt het cardiovasculair risico geschat en wat zijn de behandelimplicaties?</strong></p>
+<p>Het risico op hart- en vaatziekten wordt geschat door het meten van een combinatie van de belangrijkste risicofactoren voor artherosclerose (het onderliggende lijden bij hart- en vaatziekten). Het hele concept van interventies om preventie van hart- en vaatziekten te bevorderen is gebaseerd op het uitgangspunt dat de absolute afname van het risico op hart- en vaatziekten door deze interventies is gerelateerd aan het uitgangsrisico. In het algemeen geldt: hoe hoger het uitgangsrisico, hoe groter het effect van interventies.</p>
+<p>&nbsp;</p>
+<p><em>Opstellen van een cardiovasculair risicoprofiel</em></p>
+<p>Het cardiovasculair risicoprofiel is een overzicht van de volgende factoren die worden vastgesteld door middel van anamnese, lichamelijk onderzoek en laboratoriumonderzoek:</p>
+<ul>
+<li>anamnese: leeftijd; geslacht; roken (in pakjaren); familieanamnese met hart- en vaatziekten; voeding; psychosociale risicofactoren; alcoholgebruik (in eenheden/dag); lichamelijke activiteit;</li>
+<li>lichamelijk onderzoek: systolische bloeddruk; body-mass index (BMI) (eventueel aangevuld met middelomtrek);</li>
+<li>laboratoriumonderzoek: lipidenspectrum (totaalcholesterol (TC), HDL-C, TC-HDL-ratio, LDL-C, triglyceriden); glucosegehalte; serumcreatininegehalte met (via de CKD-EPI-formule) geschatte glomerulaire filtratiesnelheid (eGFR); albumine-creatinine ratio in urine.</li>
+</ul>
+<p>Zeer hoge plasmaconcentraties LDL-C (&gt;95ste percentiel in geslacht/leeftijdscategorie) in combinatie met een familiaire voorgeschiedenis van vroegtijdige hart- en vaatziekten en/of verhoogd cholesterol, en/of klinische kenmerken (peesxanthomen of arcus lipoides bij een leeftijd jonger dan 40 jaar) kunnen verder genetische evaluatie naar Familiaire Hypercholesterolemie rechtvaardigen (zie module <a href="https://richtlijnendatabase.nl/richtlijn/erfelijke_dyslipidemie_in_de_2e_en_3e_lijn/diagnostiek_van_dyslipidemieen.html" target="_blank" rel="noopener">Diagnostiek van dyslipidemieën uit de richtlijn (erfelijke) dyslipidemie in de tweede en derde lijn</a>).</p>
+<p>&nbsp;</p>
+<p><em>Risicocategorieën</em></p>
+<p>Voor veel patiënten is een risicocategorie aan te wijzen zonder dat hun risico kwantitatief geschat hoeft te worden met een risicoscore. Denk aan patiënten met bestaande hart- en vaatziekten, diabetes mellitus en daarmee gepaard gaande orgaanschade, ernstige chronische nierschade en extreem verhoogde risicofactoren. Deze categorieën staan toegelicht in tabel 1.</p>
+<p>&nbsp;</p>
+<p><strong>Tabel 1 Risicocategorieën</strong></p>
+<p><img src="/uploaded/images/CVRMSVFig1.png?u=1Ro3OY" alt="T1" width="742" height="584"></p>
+<div>
+<p>GFR = glomerulaire filtratie snelheid; ACR: albumine (in urine) -creatinine ratio</p>
+<p>&nbsp;</p>
+<p>De interventies die in algemene zin bij de verschillende risicocategorieën worden aanbevolen kunnen als volgt worden samengevat:</p>
+<ul>
+<li><u>zeer hoog risico</u>: leefstijladvies aangewezen, medicamenteuze therapie meestal aangewezen;</li>
+<li><u>hoog risico</u>: leefstijladvies aangewezen, overweeg medicamenteuze therapie. De beslissing om medicamenteus te behandelen hangt onder andere af van:
+<ul type="circle">
+<li>het risico op ziekte als gevolg van hart- en vaatziekten, dat fors kan variëren bij vergelijkbare sterfterisico’s (zie SCORE-risicotabel);</li>
+<li>de mate waarin effect van leefstijlveranderingen te verwachten is.</li>
+</ul>
+</li>
+<li><u>laag tot matig verhoogd risico</u>: leefstijladvies aanbevolen, medicamenteuze behandeling is in deze risicocategorie zelden aangewezen.</li>
+</ul>
+<p>&nbsp;</p>
+<p>De risicocategorieën in tabel 1 zijn sturend, maar niet bindend ten aanzien van het verdere beleid, zoals het voorschrijven van medicatie. Relatief jonge personen hebben bijvoorbeeld vrijwel altijd een laag absoluut risico op hart- en vaatziekten, maar in bepaalde gevallen kan medicamenteuze interventie aangewezen zijn (zie paragraaf 2 Risicofactorinterventie). Bij ouderen geldt het omgekeerde: zij hebben vrijwel zonder uitzondering een hoog absoluut risico, maar medicamenteuze interventie is niet altijd aangewezen (zie paragraaf 2 Risicofactorinterventie).</p>
+<p>&nbsp;</p>
+<p><em>De SCORE-risicotabel</em></p>
+<p>Voor patiënten die vanwege bestaande morbiditeit of risicofactoren niet automatisch in een van de risicocategoriën kunnen worden ingedeeld, kan het risico kwantitatief geschat worden met een risicoscoresysteem. Hiervoor wordt, net als in de voorgaande versie van de richtlijn, het SCORE-systeem aanbevolen (tabel 2). Om het risico op sterfte aan hart- en vaatziekten binnen tien jaar te schatten zoekt u het vakje dat past bij geslacht, leeftijd, roken, systolische bloeddruk en verhouding totaalcholesterol/ HDL-cholesterol (ratio). Bij waarden van de risicofactoren die tussen risicovakjes in vallen kan het risico door middel van extrapolatie worden geschat. Het risico van iemand van 57 jaar ligt dus bijvoorbeeld tussen het getal bij de vakjes voor 55 en 60 jaar. Het SCORE-systeem is alleen te gebruiken bij personen die nog niet medicamenteus worden behandeld.</p>
+<p>&nbsp;</p>
+</div>
+<p><strong>Tabel 2 SCORE-tabel</strong></p>
+<p><img src="/uploaded/images/CVRMSVFig2.png?u=1RoGh3" alt="T2" width="1138" height="971"></p>
+<p><strong>De SCORE-tabel is te vinden in apps, zoals Vaatrisico en op websites, zoals Thuisarts.nl, u-prevent.nl.&nbsp; </strong> &nbsp;</p>
+<p>&nbsp;</p>
+<p>In de vakjes staat het 10-jaars mortaliteitsrisico als gevolg van hart- en vaatziekten, evenals een indicatie van het risico op ziekte plus sterfte. In de eerste CVRM-richtlijn zijn alleen mortaliteitscijfers gebruikt (CVRM, 2006). In de eerste herziening (CVRM, 2011) zijn de mortaliteitscijfers omgerekend naar risico’s voor ziekte en sterfte. Dit heeft tot veel discussie geleid. Enerzijds was er instemming, omdat het voorkómen van ziekteminstens zo belangrijk werd geacht als het voorkómen van sterfte en het de communicatie met de patiënt meer betekenis gaf indien ook over ziekterisico’s kon worden gesproken. Anderzijds was er kritiek, vooral omdat de extrapolatie van sterfte naar ziekte plus sterfte beperkt gevalideerd was en sterk afhankelijk was van de ziekte-definitie.</p>
+<p>Tegenwoordig worden de sterfte-risicotabellen van SCORE wel geüpdatet, maar zijn er geen even solide cijfers voor ziekte plus sterfte. De rest van Europa blijft ook de komende jaren vasthouden aan sterftetabellen. Om het midden te vinden tussen het blijven gebruiken van geactualiseerde risicoschattingen, maar tevens te blijven benadrukken dat achter elk sterfterisico een hoger risico voor ziekte plus sterfte schuilgaat, heeft de werkgroep besloten om de sterfterisico’s vanuit SCORE over te nemen en leidend te laten zijn voor de risicocategorieën, maar de risico’s op ziekte plus sterfte daar indicatief bij te vermelden. Laatstgenoemde risico’s zijn niet primair gebruikt om aanbevelingen aan te koppelen, maar zijn vooral nuttig in de communicatie met patiënten, bijvoorbeeld om de wenselijkheid en potentiële winst van behandeling te bespreken.</p>
+<p>&nbsp;</p>
+<p>Bij patiënten voor wie de SCORE-tabel niet geschikt is kunnen alternatieve risicoscores worden gebruikt om de informatievoorziening en besluitvorming te faciliteren. Onderstaande tabel 3 geeft daar enkele voorbeelden van.</p>
+<p>&nbsp;</p>
+<p><strong>Tabel 3 Overzicht van risicoschattingstools bij groepen die buiten de SCORE vallen</strong></p>
+<table border="1" width="96%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 18px;">
+<td style="height: 18px;" valign="top" width="31%">
+<p><strong>Groep</strong></p>
+</td>
+<td style="height: 18px;" valign="top" width="69%">
+<p><strong>Risicoschattingtool</strong></p>
+</td>
+</tr>
+<tr style="height: 32px;">
+<td style="height: 32px;" valign="top" width="31%">
+<p>Jongeren</p>
+</td>
+<td style="height: 32px;" valign="top" width="69%">
+<p>Relatieve-risicotabel, cardiovasculaire-risicoleeftijd, lifetime-cardiovasculair risico</p>
+</td>
+</tr>
+<tr style="height: 17px;">
+<td style="height: 17px;" valign="top" width="31%">
+<p>Ouderen</p>
+</td>
+<td style="height: 17px;" valign="top" width="69%">
+<p>Specifieke risico-score voor ouderen</p>
+</td>
+</tr>
+<tr style="height: 32px;">
+<td style="height: 32px;" valign="top" width="31%">
+<p align="left">Patiënten met hart- en vaatziekten</p>
+</td>
+<td style="height: 32px;" valign="top" width="69%">
+<p>SMART-risicofunctie</p>
+</td>
+</tr>
+<tr style="height: 32.2813px;">
+<td style="height: 32.2813px;" valign="top" width="31%">
+<p>Personen met diabetes mellitus</p>
+</td>
+<td style="height: 32.2813px;" valign="top" width="69%">
+<p>ADVANCE-risicofunctie</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>De meeste tools zijn te vinden in apps zoals Vaatrisico en op websites, zoals&nbsp;</strong><strong>u-prevent.nl</strong><strong>. De relatieve-risicotabel staat in de tabel 4. </strong></p>
+<p>&nbsp;</p>
+<p><em>Jongere personen (tot 40 jaar): cardiovasculair risico en behandelimplicaties</em></p>
+<p>Omdat het absolute 10-jaarsrisico bij jongere personen (tot 40 jaar) doorgaans laag is, komen jongere mannen en met name vrouwen, zelfs indien ze verschillende risicofactoren hebben, op basis van hun 10-jaarsrisico zelden in aanmerking voor (intensieve) leefstijladviezen of medicamenteuze interventies om hun risico te verlagen. Om deze personen te informeren en te motiveren tot een gunstige leefstijl kunnen alternatieve manieren van risicoberekening worden overwogen. Een voorbeeld van een alternatieve risicobepaling is berekening van het relatieve risico ten opzichte van een leeftijdsgenoot met normale risicofactoren (tabel 4). Andere voorbeelden zijn berekening van de ‘cardiovasculaire risicoleeftijd’ en het ‘life time-risico op hart- en vaatziekten’ (zie de module ‘Hoe het risico te schatten’).</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Tabel 4 Relatieve-risicotabel, afgeleid van SCORE (Overgenomen uit Piepoli, 2016)</strong></p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="78">
+<p><strong>Systolische bloeddruk (mmHg)</strong></p>
+</td>
+<td colspan="5" valign="top" width="241">
+<p align="center">&nbsp;</p>
+<p align="center"><strong>Niet-roker</strong></p>
+</td>
+<td colspan="5" valign="top" width="228">
+<p align="center">&nbsp;</p>
+<p align="center"><strong>Roker</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="78">
+<p align="right">180</p>
+</td>
+<td valign="top" width="48">
+<p align="center">3</p>
+</td>
+<td valign="top" width="48">
+<p align="center">3</p>
+</td>
+<td valign="top" width="48">
+<p align="center">4</p>
+</td>
+<td valign="top" width="48">
+<p align="center">5</p>
+</td>
+<td valign="top" width="48">
+<p align="center">6</p>
+</td>
+<td valign="top" width="48">
+<p align="center">6</p>
+</td>
+<td valign="top" width="48">
+<p align="center">7</p>
+</td>
+<td valign="top" width="48">
+<p align="center">8</p>
+</td>
+<td valign="top" width="48">
+<p align="center">10</p>
+</td>
+<td valign="top" width="35">
+<p align="center">12</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="78">
+<p align="right">160</p>
+</td>
+<td valign="top" width="48">
+<p align="center">2</p>
+</td>
+<td valign="top" width="48">
+<p align="center">3</p>
+</td>
+<td valign="top" width="48">
+<p align="center">3</p>
+</td>
+<td valign="top" width="48">
+<p align="center">4</p>
+</td>
+<td valign="top" width="48">
+<p align="center">4</p>
+</td>
+<td valign="top" width="48">
+<p align="center">4</p>
+</td>
+<td valign="top" width="48">
+<p align="center">5</p>
+</td>
+<td valign="top" width="48">
+<p align="center">6</p>
+</td>
+<td valign="top" width="48">
+<p align="center">7</p>
+</td>
+<td valign="top" width="35">
+<p align="center">8</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="78">
+<p align="right">140</p>
+</td>
+<td valign="top" width="48">
+<p align="center">1</p>
+</td>
+<td valign="top" width="48">
+<p align="center">2</p>
+</td>
+<td valign="top" width="48">
+<p align="center">2</p>
+</td>
+<td valign="top" width="48">
+<p align="center">2</p>
+</td>
+<td valign="top" width="48">
+<p align="center">3</p>
+</td>
+<td valign="top" width="48">
+<p align="center">3</p>
+</td>
+<td valign="top" width="48">
+<p align="center">3</p>
+</td>
+<td valign="top" width="48">
+<p align="center">4</p>
+</td>
+<td valign="top" width="48">
+<p align="center">5</p>
+</td>
+<td valign="top" width="35">
+<p align="center">6</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="78">
+<p align="right">120</p>
+</td>
+<td valign="top" width="48">
+<p align="center">1</p>
+</td>
+<td valign="top" width="48">
+<p align="center">1</p>
+</td>
+<td valign="top" width="48">
+<p align="center">1</p>
+</td>
+<td valign="top" width="48">
+<p align="center">2</p>
+</td>
+<td valign="top" width="48">
+<p align="center">2</p>
+</td>
+<td valign="top" width="48">
+<p align="center">2</p>
+</td>
+<td valign="top" width="48">
+<p align="center">2</p>
+</td>
+<td valign="top" width="48">
+<p align="center">3</p>
+</td>
+<td valign="top" width="48">
+<p align="center">3</p>
+</td>
+<td valign="top" width="35">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="78">
+<p><strong>Totaal cholesterol (mmol/l)</strong></p>
+</td>
+<td valign="top" width="48">
+<p align="center">4</p>
+</td>
+<td valign="top" width="48">
+<p align="center">5</p>
+</td>
+<td valign="top" width="48">
+<p align="center">6</p>
+</td>
+<td valign="top" width="48">
+<p align="center">7</p>
+</td>
+<td valign="top" width="48">
+<p align="center">8</p>
+</td>
+<td valign="top" width="48">
+<p align="center">4</p>
+</td>
+<td valign="top" width="48">
+<p align="center">5</p>
+</td>
+<td valign="top" width="48">
+<p align="center">6</p>
+</td>
+<td valign="top" width="48">
+<p align="center">7</p>
+</td>
+<td valign="top" width="35">
+<p align="center">8</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>De werkgroep ontraadt het direct koppelen van deze alternatieve risicoberekeningen aan medicamenteuze behandeladviezen. Bij hoge relatieve of lifetimerisico’s moet een afweging worden gemaakt tussen enerzijds een (onbewezen) reductie van deze risico’s door medicamenteuze behandeling en anderzijds het zeer langdurig gebruik van preventieve medicatie bij een laag absoluut 10-jaarsrisico. Extreme waarden van bepaalde risicofactoren (bijvoorbeeld systolische bloeddruk ≥ 180 mmHg, of totaalcholesterol &gt; 8 mmol/l; denk bij zulke waarden aan secundaire oorzaken van hypertensie of dyslipidemie) of clustering van meerdere minder sterk afwijkende risicofactoren zullen eerder doen besluiten tot medicamenteuze behandeling.</p>
+<p>&nbsp;</p>
+<p><em>Ouderen: cardiovasculair risico en behandelimplicaties</em></p>
+<p>Een van de meest controversiële onderdelen van cardiovasculaire preventie is de vraag of ouderen, die vooral vanwege hun leeftijd – en bijna ongeacht hun overige risicoprofiel – een hoog risico op hart- en vaatziekten hebben, in aanmerking komen voor medicamenteuze preventie. Het stimuleren van een gezonde leefstijl, zoals voldoende lichaamsbeweging en goede voeding, geldt eveneens voor ouderen. Bij de overweging om ouderen medicamenteus te behandelen spelen veel factoren een rol, zoals de beschikbare evidence uit trials, de levensverwachting en gezondheidstoestand van het individu, aan- of afwezigheid van hart- en vaatziekten, mogelijke bijwerkingen van de medicatie en de voorkeur van de patient.</p>
+<p>&nbsp;</p>
+<p>Bij personen zonder bekende hart- of vaatziekten wordt het bewijs dat medicamenteuze preventie effectief is steeds minder overtuigend naarmate personen ouder worden. Vooral voor kwetsbare ouderen is er weinig bewijs. Dit geldt vooral voor behandeling met statines, waarvan het gunstige effect op mortaliteit en morbiditeit door hart- en vaatziekten bij ouderen zonder hart- en vaatziekte als onzeker moet worden beschouwd. Voor antihypertensieve therapie is het bewijs voor effectiviteit sterker dan voor statines. Maar ook hier geldt dat ouderen grotendeels ontbraken in de grote klinische trials, zodat terughoudendheid is aangewezen.</p>
+<p>&nbsp;</p>
+<p>Indien medicamenteus behandelde patiënten met het voortschrijden van de leeftijd en/of de kwetsbaarheid op een zeker moment agressiever worden behandeld dan wat deze richtlijn voor ouderen adviseert, dient te worden overwogen de streefwaarden van behandeling minder stringent te maken. Stoppen met preventieve medicatie is aangewezen bij bijwerkingen die als ernstig ervaren worden. In de overige gevallen moet per patiënt een afweging worden gemaakt, waarbij het vermijden van polyfarmacie en de wens van de patiënt belangrijke componenten zijn.</p>
+<p>&nbsp;</p>
+<p><strong>Aanbevelingen</strong></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Ga, vóór het schatten van het risico op hart- en vaatziekten, na of de patiënt in een risicocategorie valt (tabel 1).</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Gebruik een risicoscoretabel (zoals de SCORE-tabel (tabel 2)) voor de overige personen van 40 jaar tot 70 jaar oud.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Overweeg het gebruik van andere manieren om het risico te schatten bij personen voor wie de SCORE-tabel niet gevalideerd is.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Ga uit van de volgende algemene aanbevelingen afhankelijk van de risicocategorie waartoe een individu behoort:</p>
+<ul>
+<li><strong>laag tot matig verhoogd risico</strong>: leefstijladvies aanbevolen, medicamenteuze behandeling is in deze risicocategorie zelden aangewezen;</li>
+<li><strong>hoog risico</strong>: leefstijladvies aangewezen, overweeg medicamenteuze therapie;</li>
+<li><strong>zeer hoog risico</strong>: leefstijladvies aangewezen, medicamenteuze therapie meestal aangewezen.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Submodule 1.3 Aanvullende risico-informatie en aandoeningen met een verhoogd cardiovasculair risico</strong></p>
+<p>Vaak is er meer informatie over cardiovasculaire risicofactoren beschikbaar dan in de SCORE-tabel of in het standaard risicoprofiel wordt genoemd. De toegevoegde waarde van deze extra risico-informatie is uitvoerig besproken in de ESC-richtlijn, waarop deze richtlijn gebaseerd is. Een aantal factoren is bij de totstandkoming van deze richtlijn onderwerp van een formele zoekvraag geweest. De conclusie is dat de toegevoegde waarde van deze extra risico-informatie meestal te gering is om het routinematig verzamelen aan te bevelen. Niettemin kán bij twijfel over het te volgen (medicamenteuze) beleid informatie over een of enkele variabelen genoemd in tabel 5 gebruikt worden om deze beslissing te ondersteunen. Een ongunstiger waarde dan gemiddeld/verwacht kan de balans naar ‘wel behandelen’ doen doorslaan, maar een gunstiger waarde dan gemiddeld/verwacht dient het omgekeerde effect te hebben. Als de zorgverlener de bechikking heeft over meerdere extra risico-informatiebronnen dienen deze tegen elkaar afgewogen te worden. Het actief verzamelen van andere risico-informatie dan genoemd in tabel 5 wordt niet aanbevolen.</p>
+<p>&nbsp;</p>
+<p><strong>Tabel 5 Voorbeelden van risicomodificatoren met potentie om de indeling van een individu in een risicocategorie te veranderen (zie ook de module ‘Andere onafhankelijke voorspellers’)</strong></p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="548">
+<p>Familieanamnese voor premature hart- of vaatziekte</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="548">
+<p>Psychosociale factoren</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="548">
+<p>Coronaire kalkscore (bij beschikbaarheid en acceptabele kosten)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Bij de beoordeling of aanvullende risico-informatie nuttig is, is vooral gekeken naar het criterium reclassificatie: het vermogen van deze aanvullende informatie om personen op basis hiervan in een andere risicogroep te plaatsen. Zeldzame aandoeningen/omstandigheden kunnen, per definitie, niet tot reclassificatie op populatieniveau leiden. Voor deze factoren is gekeken of deze factoren een onafhankelijke voorspeller zijn van toekomstige hart- en vaatziekten, gecorrigeerd voor de klassieke risicofactoren.</p>
+<p>&nbsp;</p>
+<p>Hieronder volgen conclusies over veelgenoemde risicofactoren of aandoeningen met een veronderstelde invloed op het risico op hart- en vaatziekten. Details zijn te vinden in de verschillende andere modules.</p>
+<p>&nbsp;</p>
+<p><em>Aanvullende risicofactoren die kunnen reclassificeren </em></p>
+<ul>
+<li><u>Familieanamnese</u>: meewegen van de familieanamnese voor premature hart- en vaatziekten leidt vermoedelijk tot een verbeterde risicostratificatie. Premature hart- en vaatziekten worden gedefinieerd als een fatale of niet-fatale hart- en vaatziekten in een eerstegraads mannelijk familielid van 55 jaar of jonger of een eerstegraads vrouwelijk familielid van 65 jaar of jonger.</li>
+<li><u>Psychosociale factoren</u>: reclassificatie is onvoldoende onderzocht, maar het risico wordt vermoedelijk wel degelijk gemodificeerd door sociale klasse, stressniveau, bepaalde persoonlijkheidskenmerken (zoals type-D-persoonlijkheid) en depressieve of angststoornissen.</li>
+<li><u>Coronaire kalkscore (CAC-score)</u>: kan leiden tot reclassificatie naar hogere of lagere risicocategorie.&nbsp;Het valt daarom te overwegen bij twijfel over wel of niet preventief medicamenteus behandelen de CAC-score, indien deze bekend is, te betrekken bij de risicoclassificatie. Uiteraard is het gebruik van de CAC-score afhankelijk van de beschikbaarheid en kosten.</li>
+</ul>
+<p><em>&nbsp;</em></p>
+<p><em>Aanvullende risicofactoren </em></p>
+<ul>
+<li><u>Arteriële stijfheid</u>: er is enig bewijs voor reclassificatie, maar ook voor ernstige publicatiebias. Wordt niet routinematig aanbevolen.</li>
+<li><u>Biomarkers in bloed en/of urine</u>: het betreft hier onder andere C-reactief proteïne, naast vele andere biomarkers voor cardiovasculaire risicoschatting: deze worden niet aanbevolen bij het opstellen van het risicoprofiel.</li>
+<li><u>Body mass index (BMI)</u>: onvoldoende bewijs voor reclassificatie. Vanwege het vaker voorkomen van klassieke risicofactoren bij een hoge BMI kan het wel een reden zijn een risicoprofiel op te stellen.</li>
+<li><u>Electrocardiografie</u>: wordt niet aanbevolen bij het opstellen van het risicoprofiel. Wordt evenmin routinematig aanbevolen om linker-ventrikelhypertrofie op te sporen bij hypertensie.</li>
+<li><u>Enkel-armindex</u>: wordt niet aanbevolen bij het opstellen van het risicoprofiel.</li>
+<li><u>Etniciteit</u>: onvoldoende bewijs voor relevante reclassificatie. Bij veel in Nederland vertegenwoordigde groepen met een bepaalde etnische achtergrond is het profiel van klassieke risicofactoren wel vaker ongunstig. Laagdrempeligere risico-inventarisatie valt daarom te overwegen.</li>
+<li><u>Genetische risicoscores</u>: wordt niet aanbevolen bij het opstellen van het risicoprofiel.</li>
+<li><u>Intima-media-dikte a. carotis</u>: wordt niet aanbevolen bij het opstellen van het risicoprofiel.</li>
+<li><u>Urinezuurgehalte</u>: wordt niet aanbevolen bij het opstellen van het risicoprofiel.</li>
+</ul>
+<p>&nbsp;</p>
+<p><em>Aandoeningen met een duidelijke invloed op het risico van hart- en vaatziekten</em></p>
+<ul>
+<li><u>Diabetes mellitus</u>: zie tabel 1.</li>
+<li><u>Chronische nierschade</u>: zie tabel 1.</li>
+<li><u>Artritis psoriatica</u>: overweeg een risicoprofiel voor hart- en vaatziekten op te stellen bij patiënten met artritis psoriatica. Overweeg bij twijfel over de behandelindicatie (eerder) over te gaan tot behandeling van het risico op hart- en vaatziekten indien iemand artritis psoriatica heeft.</li>
+<li><u>COPD</u>: stel bij personen met COPD een risicoprofiel voor hart- en vaatziekten op. Overweeg bij twijfel over de behandelindicatie eerder over te gaan tot behandeling van het risico op hart- en vaatziekten bij personen met COPD.</li>
+<li><u>Jicht</u>: overweeg bij personen met jicht een cardiovasculair risicoprofiel op te stellen. Overweeg bij twijfel over de behandelindicatie (eerder) over te gaan tot behandeling bij personen met jicht.</li>
+<li><u>Reumatoïde artritis</u>: stel een cardiovasculair risicoprofiel op bij personen met reumatoïde artritis. Vermenigvuldig het resultaat uit een SCORE-schatting met 1,5 bij patiënten met reumatoïde artritis.</li>
+<li><u>Kanker</u>: het risico op hart- en vaatziekten is verhoogd bij patiënten die in het verleden zijn behandeld voor kanker met chemotherapie en/of bestraling. Het risico is afhankelijk van de toegepaste therapie. Overweeg optimalisatie van hun risicoprofiel.</li>
+</ul>
+<p>&nbsp;</p>
+<p><em>Aandoeningen die aanleiding geven tot het opstellen van een risicoprofiel</em></p>
+<ul>
+<li><u>Ankyloserende spondylitis</u>: overweeg een cardiovasculair risicoprofiel op te stellen bij patiënten met ankyloserende spondylitis.</li>
+<li><u>Hiv-infectie</u>: overweeg een risicoprofiel voor hart – en vaatziekten op te stellen bij patiënten met een – al dan niet behandelde – hiv-infectie.</li>
+<li><u>Inflammatoire darmziekten (IBD)</u>: overweeg een risicoprofiel voor hart- en vaatziekten bij patiënten met IBD op te stellen. Er is geen reclassificatie naar een hogere risicogroep door de IBD.</li>
+<li><u>Obstructief slaapapneu (OSA)</u>: overweeg een risicoprofiel op te stellen bij patiënten met OSA.</li>
+<li><u>Pre-eclampsie en zwangerschapshypertensie</u>: overweeg periodieke screening op hoge bloeddruk en diabetes mellitus.</li>
+<li><u>Polycysteusovariumsyndroom en zwangerschapsdiabetes</u>: beide verhogen het risico op diabetes; overweeg periodieke screening op diabetes.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Aanbevelingen</strong></p>
+<table border="1" width="99%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Bepaal of er een belaste familieanamnese is voor premature hart- en vaatziekten als onderdeel van het cardiovasculair risicoprofiel. Premature hart- en vaatziekten wordt gedefinieerd als een fatale of niet-fatale hart- en vaatziekten bij een eerstegraads mannelijk familielid van 55 jaar of jonger of een eerstegraads vrouwelijk familielid van 65 jaar of jonger.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="99%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Overweeg het bepalen van psychosociale risicofactoren tijdens een consult of door middel van gestandaardiseerde vragenlijsten, om bij twijfel over het risico op hart- en vaatziekten het risico aan te passen.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="99%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Indien een CAC-score bekend is, kan deze meegewogen worden met het doel de risicoschatting op hart- en vaatziekten te verbeteren bij personen zonder hart- en vaatziekten bij wie twijfel bestaat over het wel of niet starten van preventieve medicatie.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Submodule 2.1 Leefstijladviezen</strong></p>
+<p>Leefstijladviezen zijn onderdeel van alle maatregelen om het risico op hart- en vaatziekten te verlagen. Aanpassing van de leefstijl geeft een verlaging van het risico op hart- en vaatziekten. Voor een blijvende aanpassing is herhaling van de adviezen essentieel.</p>
+<p>&nbsp;</p>
+<p><strong>Submodule 2.1.1 Gedragsverandering</strong></p>
+<p>Leefstijl is gebaseerd op langdurige gedragspatronen die in stand worden gehouden door de omgeving. Dit geeft al aan dat blijvende aanpassingen lastig te bewerkstelligen zijn. Het effect van een gedragsverandering kan soms groot zijn, bijvoorbeeld het stoppen met roken.</p>
+<p>&nbsp;</p>
+<p>Gedragsverandering begint bij exploratie van de achterliggende gedachtes over en de motivatie voor eventuele veranderingen. Hierbij kan men gebruikmaken van cognitieve gedragsstrategieën, zoals motiverende gespreksvoering. Samen met de patiënt worden de individuele doelen bepaald. De doelen moeten haalbaar zijn en in kleine stappen kunnen worden bereikt. Het betrekken van een multidisciplinair team helpt bij het halen van de doelen. Langdurige begeleiding van gedragsverandering is effectiever dan kortdurende.</p>
+<p>&nbsp;</p>
+<p><strong>Aanbevelingen</strong></p>
+<table border="1" width="99%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Gebruik cognitieve gedragsstrategieën, zoals motiverende gespreksvoering en methoden om zelfmanagement te bevorderen, om leefstijlverandering te ondersteunen.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="99%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Betrek een of meerdere zorgverleners om gedragsveranderingen te bewerkstelligen.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="99%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Zet multimodale interventies in voor personen met een zeer hoog cardiovasculair risico, waarin de medische behandeling geïntegreerd is met educatie over gezonde voeding, beweegadviezen, stressbeheersing en gespreksvoering over psychologische risicofactoren.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Submodule 2.1.2 Psychosociale factoren</strong></p>
+<p>Reductie van psychosociale stress, depressie en angststoornissen kan een positieve gedragsverandering stimuleren en zowel de kwaliteit van leven als de prognose verbeteren. Daarom wordt psychosociale ondersteuning aanbevolen bij personen met een hoog of zeer hoog risico op hart- en vaatziekten. Bij patiënten met depressie, angststoornis of andere psychische aandoening wordt aanbevolen deze groep te behandelen volgens de daarvoor bestaande richtlijnen.</p>
+<p>&nbsp;</p>
+<p><strong>Aanbevelingen</strong></p>
+<table border="1" width="99%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Bied personen met een hoog of zeer hoog risico op hart- en vaatziekten die psychosociale problemen hebben, naast leefstijlbegeleiding psychosociale ondersteuning aan.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="left">&nbsp;</p>
+<table border="1" width="99%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Overweeg ook psychosociale ondersteuning bij patiënten met hart- en vaatziekten die moeite hebben om te gaan met hun ziekte, of die weerstand ervaren om hun leefstijl te veranderen.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="99%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p><a name="_Hlk505089327"></a>Behandel personen met hart- en vaatziekten en een psychische aandoening (zoals depressie, psychose of angststoornis) volgens vigerende richtlijnen om zowel hun psychische als fysieke gezondheid te bevorderen.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="99%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Overweeg behandeling van psychosociale risicofactoren die klassieke risicofactoren negatief beïnvloeden (bijvoorbeeld toename van roken bij stress).</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Submodule 2.1.3 Sedentaire leefstijl en lichamelijke activiteit</strong></p>
+<p>Bewegen verlaagt het risico op hart- en vaatziekten. Uit onderzoek blijkt dat de gunstige effecten toenemen naarmate de hoeveelheid beweging toeneemt. Bij volwassenen levert 75 minuten per week bewegen bij matige intensiteit al gezondheidswinst op, 150 minuten per week levert meer op en (meer dan) het dubbele is nog beter voor de gezondheid. Relatief is de grootste winst te behalen door van lichamelijk inactief (geen activiteit met matige of zware intensiteit), actief te worden met matige of zware intensiteit.</p>
+<p>&nbsp;</p>
+<p>Veel zitten hangt samen met een hoger risico op sterfte aan hart- en vaatziekten en vroegtijdige sterfte. Het verband wordt zwakker naarmate personen meer bewegen en is niet aanwezig bij personen die zeer actief zijn (ruim boven de huidige beweegnorm). De wetenschappelijke onderbouwing voor de effecten van zitten is nog beduidend minder sterk dan voor bewegen.</p>
+<p>&nbsp;</p>
+<p><strong>Aanbevelingen</strong></p>
+<table border="1" width="99%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Geef aan elke patiënt met een verhoogd risico op hart- en vaatziekten een beweegadvies conform de adviezen van de Gezondheidsraad. Bewegen is goed, meer bewegen is beter.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="99%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Adviseer minstens 150 minuten per week aan matig intensieve inspanning, zoals wandelen en fietsen, verspreid over diverse dagen. Integreer de activiteiten in het dagelijkse leven. Langer, vaker en/of intensiever bewegen geeft extra gezondheidsvoordeel.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="99%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Adviseer minstens tweemaal per week spier- en botversterkende activiteiten, voor ouderen gecombineerd met balansoefeningen.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="99%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Adviseer om veel zitten (meer dan acht uur per dag) te voorkomen.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Submodule 2.1.4. Roken</strong></p>
+<p>Roken is een dodelijke verslaving. Het is de belangrijkste risicofactor voor hart- en vaatziekten. Een roker heeft een twee tot zes keer verhoogd risico op coronaire aandoeningen of een beroerte en een twee tot vier keer verhoogd risico op hartfalen of perifeer vaatlijden dan een niet-roker. Zelfs een lichte of matige roker heeft al een verhoogd risico op hart- en vaatziekten. Het percentage rokers in Nederland neemt gestaag af, maar is nog steeds circa 23% van de volwassen populatie. Ook meeroken verhoogt het risico op hart- en vaatziekten (met tot wel 30%).</p>
+<p>&nbsp;</p>
+<p>Het belang om te stoppen met roken kan, ongeacht de leeftijd, niet vaak genoeg herhaald worden. Stoppen met roken geeft een zeer effectieve verlaging van het risico op hart- en vaatziekten. Er zijn meerdere effectieve behandelingen voor het stoppen met roken. Die staan beschreven in de richtlijn <a href="https://assets.trimbos.nl/docs/7435d8f9-c8f4-4302-aec6-f4fddade81f2.pdf" target="_blank" rel="noopener">Behandeling van Tabaksverslaving</a> en de <a href="https://www.nhg.org/themas/publicaties/nhg-zorgmodule-leefstijl-roken-volledige-tekst" target="_blank" rel="noopener">NHG-Zorgmodule Leefstijl Roken</a>.</p>
+<p>&nbsp;</p>
+<p><strong>Aanbevelingen</strong></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Beschouw roken als de belangrijkste risicofactor voor hart en vaatziekten en het overlijden aan hart- en vaatziekten en adviseer om te stoppen met alle tabaksproducten.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Adviseer om meeroken te vermijden.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 48.6834px;">
+<td style="height: 48.6834px;" width="100%">
+<p>Adviseer te stoppen met roken en begeleiding op maat en geef deze adviezen bij herhaling. Zie voor de interventies ter ondersteuning de richtlijn <a href="https://assets.trimbos.nl/docs/7435d8f9-c8f4-4302-aec6-f4fddade81f2.pdf" target="_blank" rel="noopener">Behandeling van Tabaksverslaving</a> en de <a href="https://www.nhg.org/themas/publicaties/nhg-zorgmodule-leefstijl-roken-volledige-tekst" target="_blank" rel="noopener">NHG-Zorgmodule Leefstijl Roken</a>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Submodule 2.1.5 Voeding</strong></p>
+<p>Het voedingspatroon beïnvloedt risicofactoren voor hart- en vaatziekten zoals de cholesterol, de bloeddruk, het lichaamsgewicht en diabetes mellitus. De belangrijkste voedingsstoffen met effect op dit risico zijn verzadigde vetzuren (verhogen LDL-cholesterol ten opzichte van. onverzadigde vetzuren), zout (verhoogt bloeddruk) en vezels (verlagen risico op hart- en vaatziekten). Andere voedingsmiddelengroepen die het risico op hart- en vaatziekten verlagen, zijn groente, fruit, vis en ongezouten noten. Adviezen over goede voeding zijn een standaardonderdeel van de maatregelen om het risico op hart- en vaatziekten te verlagen.</p>
+<p>&nbsp;</p>
+<p>De Nederlandse richtlijn van de Gezondheidsraad, ‘Richtlijnen goede voeding 2015’, vertaald door het Voedingscentrum in praktische adviezen, ‘Richtlijnen Schijf van Vijf’, geeft aanbevelingen voor een gezond voedingspatroon om het risico op hart- en vaatziekten te verminderen. Uit onderzoek blijkt dat in Nederland veel personen de aanbevelingen uit de richtlijn echter niet halen. De zorgverlener kan helpen met het bewerkstelligen van een goed voedingspatroon door adviezen te geven, gedragsverandering te stimuleren (zie de module ‘Gedragsverandering’) of te verwijzen naar een diëtist.</p>
+<p>&nbsp;</p>
+<p>Voedingsmiddelen met plantensterolen en -stanolen verlagen het LDL-cholesterol enigszins. Rode gist rijst lijkt geassocieerd met een verlaging van het LDL-cholesterol, maar een bewijs van langetermijneffectiviteit ontbreekt. Daarnaast zijn er mogelijk wel allerlei bijwerkingen van rode gist rijst, variaties in de hoeveelheid monacoline K (de werkzame stof) in supplementen met rode gist rijst en de mogelijkheid dat door het gistingsproces ook de giftige stof citrinine (een mycotoxine) ontstaat. Grootschalige onderzoeken naar de effecten van visoliesuppelmenten lieten geen gunstig effect op het risico op hart- en vaatziekten zien.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Aanbevelingen</strong></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Adviseer een voedingspatroon volgens de ‘Richtlijnen Schijf van Vijf’ met het doel (recidief) hart- en vaatziekten te voorkomen.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Raad het gebruik van supplementen met rode gist rijst met het doel het LDL-cholesterol te verlagen <em>niet</em> aan.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Raad het gebruik van visoliesupplementen met het doel het LDL-cholesterol te verlagen <em>niet</em> aan.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Submodule 2.1.6 Lichaamsgewicht</strong></p>
+<p>Een toename van het lichaamsvet kan leiden tot verhoging van de bloeddruk, dyslipidemie, insulineresistentie, albuminurie en de ontwikkeling van diabetes mellitus. Dit kan weer leiden tot hart- en vaatziekten. Voor het monitoren van het lichaamsvet zijn zowel de body mass index (BMI) als middelomtrek geschikte methodes. In Nederland is het aantal personen met overgewicht (BMI ≥25 kg/m<sup>2</sup>) sterk gestegen, van één op de drie in 1990 naar één op de twee in 2017. Het aantal personen met obesitas (BMI≥ 30 kg/m<sup>2</sup>) is in die periode verdrievoudigd, van 5,5% naar 14,2% in 2016.</p>
+<p>&nbsp;</p>
+<p>Voor alle personen met overgewicht is het zinvol om af te vallen. Dit verlaagt het risico op hart- en vaatziekten. Hierbij is fitheid belangrijker dan het exacte gewicht. Verlaging van het gewicht kan het beste worden bereikt door voldoende te bewegen en te eten volgens de ‘Richtlijnen goede voeding 2015’. Meer informatie over de behandeling van overgewicht staat in de Richtlijn <a href="https://richtlijnen.nhg.org/standaarden/obesitas" target="_blank" rel="noopener">Diagnostiek en behandeling van obesitas bij volwassen en kinderen</a> en de <a href="https://richtlijnen.nhg.org/standaarden/obesitas#volledige-tekst-richtlijnen-beleid" target="_blank" rel="noopener">NHG-Zorgmodules Leefstijl</a>.</p>
+<p>&nbsp;</p>
+<p><strong>Aanbevelingen</strong></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Adviseer personen met een gezond gewicht (BMI 20 tot 25 kg/m<sup>2</sup>) gewichtsbehoud en gezond te eten conform de ‘Richtlijnen goede voeding 2015’ (zie de module ‘Voeding’) en te bewegen (zie de module ‘Sedentaire leefstijl en lichamelijke activiteit’).</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Adviseer personen met overgewicht of obesitas (BMI ≥ 25 kg/m<sup>2</sup>) in het algemeen om voldoende te bewegen en op gezonde wijze af te vallen. Zie de aanverwante producten bij de module ‘Lichaamsgewicht ‘ over adviezen over afvallen.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Submodule 2.2 Lipiden</strong></p>
+<p>Vooral LDL-cholesterol (LDL-C) is een belangrijke risicofactor voor hart- en vaatziekten. Cholesterolverlagende therapie verlaagt het cardiovasculaire risico. Dit is vooral aangetoond voor statines en in mindere mate voor andere lipidenverlagers.</p>
+<p>&nbsp;</p>
+<p>De drempel om te starten met statines is afhankelijk van het uitgangsrisico zoals beschreven in de submodule ‘Persoons-/patiëntengroepen bij schatting’, alsmede of het LDL-C zich boven de streefwaarde bevindt. Bij ouderen &gt; 70 jaar geldt een restrictiever voorschrijfadvies.</p>
+<p>&nbsp;</p>
+<p><em>Streefwaarden</em></p>
+<p>Het effect van cholesterolverlagers kan worden afgemeten aan het bereikte LDL-C, maar ook non-HDL-cholesterol (= totaalcholesterol – HDL-cholesterol) is een goede parameter hiervoor. Bij patiënten met een doorgemaakte hart- en vaatziekte hangt de mate van cholesterolverlaging samen met het cardiovasculaire risico en wordt intensievere behandeling geadviseerd dan bij patiënten zonder hart- en vaatziekte.</p>
+<p>&nbsp;</p>
+<p>De overige lipidenfracties (met name triglyceriden en HDL-C) zijn geen behandeldoelen, met uitzondering van uitzonderlijk sterk verhoogde triglyceriden. Zie voor meer informatie hierover de richtlijn <a href="https://richtlijnendatabase.nl/richtlijn/erfelijke_dyslipidemie_in_de_2e_en_3e_lijn/startpagina_dyslipidemie.html" target="_blank" rel="noopener">(erfelijke) dyslipidemie in de tweede en derde lijn</a>.</p>
+<p>&nbsp;</p>
+<p><strong>Aanbevelingen over lipidenverlagende medicatie</strong></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Streef naar een LDL-C &lt;1,8 mmol/l bij patiënten met hart- en vaatziekten ≤70 jaar*.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Streef naar een LDL-C &lt;2,6 mmol/l bij een van de (of combinatie van de) volgende situaties:</p>
+<ul>
+<li style="list-style: none;">
+<ul>
+<li>een 10-jaars hart- en vaatziekte sterfterisico ≥5%**;</li>
+<li>patiënten met diabetes mellitus;</li>
+<li>patiënten met chronische nierschade;</li>
+<li>ernstig verhoogde enkele risicofactor, in het bijzonder totaalcholesterol &gt;8 mol/l of bloeddruk ≥180 mmHg.</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Gebruik LDL-C of non-HDL-C voor het monitoren van het effect van cholesterolverlagende behandeling, waarbij een LDL-C van 1,8 en 2,6 mmol/l correspondeert met een non-HDL-C van 2,6 en 3,4 mmol/l.&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="left">* De genoemde leeftijdsgrens is geen absolute grens. Kwetsbaarheid is niet altijd gebonden aan de leeftijd van de patiënt.</p>
+<p>** Op basis van een risicoscoretabel (zoals SCORE)</p>
+<p>&nbsp;</p>
+<p><em>Welke lipidenverlagende therapie?</em></p>
+<p>Statines zijn verreweg de best onderzochte cholesterolverlagers. Simvastatine kent een standaarddosering van 40mg. Andere statines, zoals rosuvastatine, pravastatine, zijn in een equipotente doering waarschijnlijk even effectief in het verlagen van het risico op hart- en vaatziekten als 40mg simvastatine. Intensieve cholesterolverlaging behelst een hoge dosis atorvastatine (40 of 80 mg) of rosuvastatine (20 of 40 mg) of combinatie van gemiddelde dosis statine en ezetimib of PCSK9-antilichaam. De nieuwste klasse cholesterolverlagers, PCSK9-antilichamen, verlaagt het LDL-cholesterol zeer sterk, maar is qua effectiviteit ten aanzien van risicoreductie en veiligheid nog beperkt onderzocht. Mede hierom en vanwege de hoge prijs is de vergoeding van PCSK9-antilichamen aan strikte criteria gebonden.</p>
+<p>&nbsp;</p>
+<p><strong>Aanbevelingen</strong></p>
+<p><em>Patiënten met hart- en vaatziekten </em><em>≤70 jaar</em></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Start intensieve lipidenverlaging bij voorkeur met een hoge dosis statine of anders met een combinatie van een statine met ezetimib indien het LDL-C ≥1,8 mmol/l.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Intensiveer de lipidenverlagende therapie (een hogere dosis statine of sterker werkende statine en/of combinatie van statine en ezetimib) indien het LDL-C na drie maanden nog steeds ≥1,8 mmol/l is.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Verdere intensivering van lipidenverlagende therapie (hogere dosis statine en/of combinatie van statine en ezetimib) kan op individuele basis en in overleg met een patiënt ook worden overwogen indien, ondanks het bereiken van LDL-C &lt;1,8 mmol/l, een patiënt gemotiveerd is en de behandeling goed verdraagt.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Behandeling met PCSK9-antilichamen, in combinatie met maximaal verdraagbare orale lipidenverlagende therapie, kan worden overwogen bij patiënten met een hooggeschat recidief risico op hart- en vaatziekten (zoals patiënten met uitgebreid of progressief vaatlijden, patiënten met diabetes mellitus met een hart- en vaatziekte en patiënten met Familiaire Hypercholesterolemie met een hart- en vaatziekte) die de genoemde LDL-C-streefwaarden niet bereiken met optimale/maximale verdraagbare orale lipidenverlagende medicatie. Hiervoor gelden specifieke vergoedingscriteria.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><em>Patiënten zonder eerdere hart- en vaatziekten </em><em>≤70 jaar, maar met een zeer hoog of hoog cardiovasculair risico en/of met diabetes mellitus en/of chronische nierschade</em></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Start met een statine indien het risico op hart- en vaatziekten zeer hoog is en het LDL-C ≥2,6 mmol/l is.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Overweeg te starten met een statine indien het risico op hart- en vaatziekten hoog is en het LDL-C ≥2,6 mmol/l is.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Intensiveer de lipidenverlagende therapie (een hogere dosis statine of sterker werkende statine en/of combinatie van statine en ezetimib) indien het LDL-C na drie maanden ≥2,6 mmol/l is.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Intensieve(re) lipidenverlagende therapie (hoge dosis of sterker werkende&nbsp; statine en/of combinatie van statine en ezetimib) kan op individuele basis en in overleg met een patiënt worden overwogen indien, ondanks het bereiken van LDL-C &lt;2,6 mmol/l, een patiënt gemotiveerd is en de behandeling goed verdraagt.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Behandeling met PCSK9-antilichamen, in combinatie met maximaal verdraagbare orale lipidenverlagende therapie, kan worden overwogen bij specifieke patiëntengroepen (met name patiënten met familiaire hypercholesterolemie) die ondanks optimale orale lipidenverlagende therapie de streefwaarden voor LDL-C niet bereiken. Hiervoor gelden specifieke vergoedingscriteria.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Aanbevelingen</strong></p>
+<p><em>Niet-kwetsbare ouderen</em></p>
+<p><u>Starten van lipidenverlagende medicatie</u></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Overweeg het geven van lipidenverlagende medicatie aan niet-kwetsbare ouderen <em>zonder</em> hart- en vaatziekten alleen bij een hoog geschat risico op een vasculair event, bijvoorbeeld door de aanwezigheid van ernstige risicofactoren (zoals diabetes of een zeer hoog cholesterol (TC &gt;8 mmol/L), een zeer hoge bloeddruk (≥180/110 mmHg), en een voldoende hoog geschat resterende levensverwachting. Streef naar een LDL-C &lt;2,6 mmol/l.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><u>Starten van lipidenverlagende medicatie</u></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Geef lipidenverlagende medicatie aan niet-kwetsbare ouderen <em>met</em> hart- en vaatziekten en streef naar een LDL-C &lt;2,6 mmol/l. Evalueer de eventuele bijwerkingen nauwgezet. Switch naar een andere statine of verlaag de statinedosering en overweeg ezetimib toe te voegen bij het vermoeden van het ontstaan van bijwerkingen.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><u>Stoppen van lipidenverlagende medicatie</u></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Stop alleen met lipidenverlagende medicatie bij onoverkomelijke bijwerkingen bij niet-kwetsbare ouderen <em>met</em> hart- en vaatziekten.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><em>Kwetsbare ouderen</em></p>
+<p><u>Starten van lipidenverlagende medicatie</u></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p><a name="_Hlk526334518"></a>Start niet met lipidenverlagende medicatie bij kwetsbare ouderen <em>zonder</em> hart- en vaatziekten.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><u>Starten van lipidenverlagende medicatie</u></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Overweeg het geven van lipidenverlagende medicatie aan kwetsbare ouderen na een (recent) vasculair event en met een voldoende hoog geschat resterende levensverwachting. Evalueer het optreden van bijwerking nauwgezet en waak voor myopathie, behoud van functie en kwaliteit van leven.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><u>Stoppen van lipidenverlagende medicatie</u></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Stop met lipidenverlagende medicatie bij kwetsbare ouderen <em>zonder</em> hart- en vaatziekten.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><u>Stoppen van lipidenverlagende medicatie</u></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Overweeg te stoppen met lipidenverlagende medicatie bij kwetsbare ouderen <em>met</em> hart- en vaatziekten, met name bij het optreden van een mogelijke bijwerking of bij een geringe geschatte resterende levensverwachting.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Submodule 2.3 Bloeddruk</strong></p>
+<p>Iedere bloeddruk boven de streefwaarde die voor de specifieke patiëntencategorie geldt kan worden beschouwd als verhoogde bloeddruk waarvoor behandeling, al dan niet medicamenteus, overwogen moet worden. Een spreekkamerbloeddruk ≥ 180 mmHg systolisch geldt als sterk verhoogd en is in principe altijd een behandelindicatie ongeacht het risico op hart- en vaatziekten. De richtlijn gebruikt systolische bloeddruk voor risicostratificatie en streefwaarden.</p>
+<p>&nbsp;</p>
+<p>De indicatie voor behandeling wordt vooral bepaald door het absolute cardiovasculaire risico (zie de modules ‘Persoons-/patiëntengroepen bij schatting’ en ‘Hoe het risico te schatten’). Behandeling kan overwogen worden bij (met name relatief jonge) personen met een laag 10-jaarsrisico, maar moet worden afgewogen tegen onzekerheden over de effectiviteit van behandeling, alsmede de voorkeur van de patiënt.</p>
+<p>&nbsp;</p>
+<p><strong>Aanbevelingen</strong></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Start bloeddrukverlagende medicijnen bij personen met een systolische bloeddruk ≥ 180 mmHg, ongeacht het risico op hart- en vaatziekten.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Stel bij alle overige personen met een verhoogde bloeddruk een risicoprofiel op en schat het risico op hart- en vaatziekten.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Behandel de bloeddruk bij personen met een zeer hoog risico op hart- en vaatziekten indien de bloeddruk boven de streefwaarde is.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Overweeg de bloeddruk te behandelen bij personen met een hoog risico op hart- en vaatziekten indien de bloeddruk boven de streefwaarde is.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Bij personen met een laag tot gematigd risico op hart- en vaatziekten kan behandeling worden overwogen indien de bloeddruk boven de streefwaarde is.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><em>Diagnostiek</em></p>
+<p><u>Bloeddrukmeting</u></p>
+<p>Naast de routine-bloeddrukmeting in de spreekkamer zijn er diverse geautomatiseerde methoden beschikbaar, zoals het gedurende 30 minuten verrichten van enkele metingen in een aparte ruimte (BP30-meting), geprotocolleerde thuismeting en 24 uursmeting. Deze zijn geschikt om een wittejasseneffect aan te tonen. Geen van de geautomatiseerde metingen zijn gevalideerd bij atriumfibrilleren. Controleer daarom altijd de polsregulariteit.</p>
+<p>&nbsp;</p>
+<p>Bij de interpretatie van bloeddrukwaardes van alternatieve meetmethodes dient rekening gehouden te worden met structurele verschillen met de spreekkamerbloeddruk, aangezien de risicoberekeningen en streefwaardeliteratuur op de laatstgenoemde methode gebaseerd zijn.</p>
+<p>&nbsp;</p>
+<p><strong>Tabel 6 (Schatting van) corresponderende bloeddrukwaardes bij verschillende andere meetmethodes bij spreekkamermetingen van 140 en 180 mmHg.</strong></p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="177">
+<p>Spreekkamermetingen</p>
+</td>
+<td valign="top" width="191">
+<p>140 mmHg</p>
+</td>
+<td valign="top" width="177">
+<p>180 mmHg</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="177">
+<p>24 uursbloeddrukmeting</p>
+</td>
+<td valign="top" width="191">
+<p>130 mmHg</p>
+</td>
+<td valign="top" width="177">
+<p>165 mmHg</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="177">
+<p>Geprotocolleerde thuismeting</p>
+</td>
+<td valign="top" width="191">
+<p>135 mmHg</p>
+</td>
+<td valign="top" width="177">
+<p>170 mmHg</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="177">
+<p>BP30-meting</p>
+</td>
+<td valign="top" width="191">
+<p>135 mmHg*</p>
+</td>
+<td valign="top" width="177">
+<p>170 mmHg*</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>*De BP30-meting is minder goed onderzocht; de verschilschattingen zijn daarom indicatief weergegeven.</strong></p>
+<p>&nbsp;</p>
+<p>De werkgroep adviseert laagdrempelig geautomatiseerde meetmethoden te gebruiken om onterechte behandelindicaties te voorkomen.</p>
+<p>&nbsp;</p>
+<p><strong>Aanbevelingen</strong></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Evalueer de bloeddruk door middel van meerdere spreekkamermetingen. Gebruik bij een behandelindicatie ook een ambulante meting (zie stroomschema).</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Doe een 24-uursmeting (voorkeur) of een geprotocolleerde thuismeting om een witte-jas-hypertensie uit te sluiten. Indien die niet haalbaar zijn, kan een BP30-meting worden overwogen.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Voel de pols bij het meten van de bloeddruk om personen met atriumfibrilleren op te sporen.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Deze aanbevelingen zijn in de modulaire richtlijntekst geoperationaliseerd in een stroomschema (zie de module ‘Bloeddrukmeting’).</p>
+<p>&nbsp;</p>
+<p><em>Aanvullend onderzoek</em></p>
+<p>Alvorens besloten wordt of behandeling aangewezen is dient men zich af te vragen of er sprake is van een vorm van secundaire hypertensie. Aanwijzingen hiervoor staan opgesomd in de module <a href="https://richtlijnendatabase.nl/richtlijn/hypertensie_in_de_tweede_en_derde_lijn/diagnostiek_secundaire_hypertensie.html" target="_blank" rel="noopener">Diagnostiek secundaire hypertensie</a> uit de richtlijn ‘Hypertensie in de tweede en derde lijn’ en omvatten onder andere een jonge beginleeftijd, gebruik van specifieke medicamenten of genotsmiddelen, tekenen van schildklierdysfunctie, een (bij)nierziekte of het Cushingsyndroom, hypokaliëmie (≤ 3,5 mmol/l), aanwijzingen voor obstructief slaapapneu en therapieresistente hypertensie.</p>
+<p>&nbsp;</p>
+<p>Bij een zeer sterk verhoogde bloeddruk (systolisch &gt; 200 mmHg of een recente sterke stijging) of klachten van hoofdpijn, misselijkheid of braken, kortademigheid of visusstoornissen kan er sprake zijn van een hypertensief spoedgeval. Voor de diagnostische evaluatie en therapie van een hypertensief spoedgeval wordt naar de richtlijn <a href="https://richtlijnendatabase.nl/richtlijn/hypertensief_spoedgeval/startpagina_-_hypertensief_spoedgeval.html" target="_blank" rel="noopener">Hypertensief spoedgeval</a> verwezen.</p>
+<p>&nbsp;</p>
+<p>Ten slotte is van belang dat vóór aanvang van het gebruik van bloeddrukverlagende medicatie bloedonderzoek plaatsvindt, niet alleen ter beoordeling van aanwijzingen voor secundaire hypertensie, maar tevens om een uitgangswaarde te krijgen voor waarden die door het gebruik van medicatie kunnen worden beïnvloed.</p>
+<p>&nbsp;</p>
+<p><u>Laboratoriumcontroles bij RAS-remmers en/of diuretica</u></p>
+<p>Het gebruik van een RAS-remmer en/of diuretica kan leiden tot (exacerbatie van) nierfunctiestoornissen en/of elektrolytstoornissen. Controleer in principe bij iedereen voor aanvang van een RAS-remmer of diuretica en daarna jaarlijks op <strong>nierfunctie (eGFR)</strong>, <strong>natrium en kalium</strong>. De controle bij aanvang van de medicatie kan vervallen als de eGFR, het natrium- en kaliumgehalte recent bepaald zijn en niet afwijkend waren.</p>
+<p>Herhaling van de bepaling twee weken na starten of een driemaandelijkse controle is alleen nodig op indicatie, zie aanbevelingen.</p>
+<p>&nbsp;</p>
+<p><strong>Aanbevelingen</strong></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Controleer bij elke patiënt met een verhoogde bloeddruk of er sprake is van klinische aanwijzingen voor secundaire hypertensie (zie tabel 1).</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Onderzoek met spoed het bestaan van acute orgaanschade bij:</p>
+<ul>
+<li>een systolische en diastolische bloeddruk &gt; 200/120 mmHg of een recent gedocumenteerde sterke bloeddrukstijging, in combinatie met klachten van hoofdpijn, visusstoornissen, misselijkheid en/of braken;</li>
+<li>hypertensie in combinatie met acute neurologische symptomen of cardiopulmonale klachten.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Bepaal nierfunctie (eGFR), natrium en kalium voor aanvang van RAS-remmer en/of diuretica.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Bepaal nierfunctie (eGFR), natrium en kalium (opnieuw) 2 weken na aanvang van de medicatie bij:</p>
+<ul>
+<li>een afwijkende laboratoriumuitslag (eGFR &lt;60 ml/min/1,73 m<sup>2</sup>, kalium &lt;3,8 mmol/l of kalium &gt;4,5 mmol/l);</li>
+<li>een combinatie van een RAS-remmer en een diureticum.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Herhaal de controle elke drie maanden op indicatie, bijvoorbeeld bij een ernstige nierfunctiestoornis (&lt;30 ml/min/1,73 m<sup>2</sup>), instabiel hartfalen, kwetsbare ouderen of in het verleden nierfunctie- of elektrolytenafwijkingen bij gebruik van deze medicatie. Overweeg ook controle van eGFR, natrium en kalium in geval van (dreigende) dehydratie bij intercurrente aandoeningen (hoge koorts, fors braken of forse diarree).</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><em>Streefwaarden</em></p>
+<p>In de discussie over streefwaarden speelt de systolische bloeddrukwaarde van 140 mmHg een centrale rol. Er is veel bewijs dat het streven naar een waarde &lt;140 mmHg bij de meeste patiënten veilig en effectief is. De werkgroep beveelt deze 140 mmHg dan ook aan als uitgangspunt voor de streefwaarde. Vervolgens kunnen er argumenten zijn om de bloeddruk verder te verlagen naar &lt;130 mmHg, danwel de streefwaarde te verhogen naar &lt;150 mmHg.</p>
+<ul>
+<li>Verlaging van de streefwaarde (&lt;130 mmHg) kan worden overwogen indien de behandeling tot &lt;140mmHg goed wordt verdragen, met name in aanwezigheid van extra risicoverhogende factoren, zoals diabetes mellitus en chronische nierschade.</li>
+<li>Verhoging van de streefwaarde (&lt;150 mmHg) kan worden overwogen bij vergevorderde ouderdom of kwetsbaarheid bij minder vergevorderde ouderdom.</li>
+</ul>
+<p>&nbsp;</p>
+<p>In de klinische praktijk moeten de argumenten voor en tegen aanpassing van de streefwaarde worden afgewogen. Als er zowel argumenten voor verlaging als voor verhoging van de streefwaarde zijn, kan besloten worden de streefwaarde niet aan te passen. Hoe goed de actuele behandeling verdragen wordt, hoe intensief de behandeling is, de aanwezigheid van polyfarmacie en de wens van de patiënt, spelen bij deze keuze een belangrijke rol.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Aanbevelingen</strong></p>
+<p><em>Bij personen </em><em>≤70 jaar</em></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Streef naar een systolische bloeddruk &lt;140 mmHg.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Streef naar een lagere systolische bloeddruk tot &lt;130 mmHg, indien de medicatie goed verdragen wordt, met name bij personen met een hoger risico door bijvoorbeeld een comorbiditeit als chronische nierschade.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><em>Niet-kwetsbare ouderen</em></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Streef naar een systolische bloeddruk &lt;150 mmHg bij niet-kwetsbare ouderen.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Overweeg bij het verdragen en het niet optreden van bijwerkingen van de medicatie bij niet-kwetsbare ouderen de systolische bloeddruk nog verder te verlagen onder 140 mmHg. Monitor de bijwerkingen bij iedere controle.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Pas de medicatie aan bij het optreden van bijwerkingen bij niet-kwetsbare ouderen door bijvoorbeeld het verlagen van de dosering, het switchen van medicatie of het stoppen van medicatie.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><em>Kwetsbare ouderen</em></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="100%">
+<p>Streef naar een systolische bloeddruk &lt;150 mmHg bij kwetsbare ouderen onder de voorwaarde van voorzichtig titreren.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Stop met het verder intensiveren van bloeddrukverlagende behandeling en overweeg het verlagen van de dosering bij kwetsbare ouderen met een diastolische bloeddruk &lt;70 mmHg ongeacht de hoogte van de systolische bloeddruk.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Monitor het optreden van eventuele bijwerkingen bij kwetsbare ouderen.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><em>Medicamenteuze behandeling</em></p>
+<p>In principe worden alle vier de klassen bloeddrukverlagers (diuretica, calciumantagonisten, ACE-remmers/angiotensine-receptorblokkers (ARB), β-blokkers) aanbevolen voor de standaardbehandeling van hypertensie. β-blokkers zijn relatief gecontra-indiceerd bij een verhoogd risico op diabetes mellitus (bijvoorbeeld bij overgewicht of een verhoogde glucosewaarde). Vaak is combinatietherapie nodig om de streefwaarde te bereiken. De combinatie β-blokker-diuretica (risico op diabetes) en ACE-remmer-ARB (risico op nierfalen) worden niet standaard aanbevolen. De overige klassen bloeddrukverlagers zijn reservemiddelen en worden alleen aanbevolen in combinatie met een of meerdere medicijnen uit de vier hoofdklassen. Eenvoudige doseerregimes (middelen met een lange werkingsduur en combinatietabletten) zijn belangrijk voor compliantie. Met combinatiemiddelen kan eventueel worden gestart bij een sterk verhoogde aanvangsbloeddruk en/of risico.</p>
+<p>&nbsp;</p>
+<p>Tabel 7 geeft voorkeursmiddelen aan voor bijzondere omstandigheden:</p>
+<p>&nbsp;</p>
+<p><strong>Tabel 7 Voorkeursgeneesmiddelen in specifieke situaties</strong></p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="152">&nbsp;</td>
+<td valign="top" width="396">
+<p><strong>Geneesmiddel</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="152">
+<p>Vehoogde albuminurie (&gt; 3mg/mmol albumine/ creatinine)</p>
+</td>
+<td valign="top" width="396">
+<p>ACE-R/ARB</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="152">
+<p>Eerder MI/coronairlijden</p>
+</td>
+<td valign="top" width="396">
+<p>β-blokkers, ACE-R/ARB</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="152">
+<p>Angina pectoris</p>
+</td>
+<td valign="top" width="396">
+<p>β-blokkers, calciumantagonist</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="152">
+<p>Hartfalen</p>
+</td>
+<td valign="top" width="396">
+<p>ACE-R/ARB, β-blokkers, diuretica, mineralocorticoïdereceptorantagonist</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="152">
+<p>Atriumfibrilleren</p>
+</td>
+<td valign="top" width="396">
+<p>β-blokkers, non-dihydropyridine-calciumkanaalblokkeerders, ACE-R/ARB, mineralocorticoïdereceptorantagonist</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="152">
+<p>Perifeer arterieel vaatlijden</p>
+</td>
+<td valign="top" width="396">
+<p>ACE-R</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="152">
+<p>Diabetes mellitus</p>
+</td>
+<td valign="top" width="396">
+<p>ACE-R/ARB</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="152">
+<p>Zwangerschap</p>
+</td>
+<td valign="top" width="396">
+<p>Methyldopa, labetalol, calciumantagonist</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="152">
+<p>Zwarte personen</p>
+</td>
+<td valign="top" width="396">
+<p>Diuretica en calciumantagonisten</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>ACE-R = angiotensineconverterend enzymremmer; ARB = angiotensinereceptorblokker; Diuretica = thiazide of thiazideachtig; MI = myocardinfarct</strong></p>
+<p>&nbsp;</p>
+<p><em>Therapieresistentie</em></p>
+<p>Bij onvoldoende reactie op antihypertensieve behandeling moet allereerst gebrekkige compliantie worden overwogen, alsmede een wittejasseneffect, hoge zoutinname of alcoholgebruik. Enige vorm van ambulante meting (thuis of 24 uurs) wordt bij deze patiënten sterk aanbevolen. Voeg spironolacton 25 tot 50 mg toe wanneer de bloeddrukstreefwaarde niet wordt gehaald na de initiële behandeling met een ACE-remmer of ARB, calciumantagonist en thiazidediureticum. Bij niet verdragen van spironolacton kan amiloride 10 tot 20 mg als alternatief worden overwogen.</p>
+<p>&nbsp;</p>
+<p><strong>Aanbevelingen</strong></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Geef alle personen met een verhoogde bloeddruk leefstijladviezen (zie de module ‘Leefstijadviezen’).</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="left">&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Bloeddrukverlagende medicatie kan worden overwogen bij personen met een laag tot matig risico op hart- en vaatziekten, met een verhoogde bloeddruk, indien leefstijlmaatregelen voor onvoldoence de bloeddrukdaling zorgen.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="left">&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p align="left">Alle soorten bloeddrukverlagende middelen zijn gelijkwaardig en hebben een even groot bloeddrukverlagend effect; al zijn er aanwijzingen dat β-blokkers minder effectief zijn dan diuretica, ACE-remmers, ARB’s en calciumantagonisten (zie voor specifieke situaties tabel 1).</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="left">&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Starten met combinatietherapie (twee middelen) kan worden overwogen bij patiënten met een sterk verhoogde bloeddruk of met een hoog risico op hart- en vaatziekten.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="left">&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Het combineren van twee of drie middelen in één tablet kan worden overwogen om therapietrouw te bevorderen.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="left">&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Instrueer de patiënt met chronische nierschade, hartfalen of diabetes mellitus die RAS-remmers, diuretica en/of NSAID’s gebruiken, contact op te nemen met de huisartsenpraktijk in geval van hoge koorts, fors braken of forse diarree.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Submodule 4.1 Interventies op populatieniveau</strong></p>
+<p>Door maatregelen op populatieniveau kan de gehele verdeling van risicofactoren voor hart- en vaatziekten in de bevolking in gunstige zin verschoven worden. Een kleine verlaging in bijvoorbeeld de bloeddruk in de gehele populatie leidt tot een grotere afname van de ziektelast op populatieniveau dan een grotere daling bij een kleinere groep personen.</p>
+<p>&nbsp;</p>
+<p>Maatregelen op populatieniveau kunnen onder andere gericht zijn op het bevorderen van een gezonde voeding, meer bewegen, niet roken, minder alcohol en een gezonde lucht. Hierdoor worden een gezondere leefomgeving en leefstijl gecreëerd. Daarnaast zijn maatregelen door prijsverhogingen van ongezonde producten zoals accijnzen, belastingen (tabakswaren, of een vet- of suikertax) of prijsverlagingen van gezondere producten middels subsidies (bijvoorbeeld op groenten en fruit) waarschijnlijk effectief en is goed inzicht in de samenstelling van producten wenselijk (aanduiding voedingswaarde en een begrijpelijk logo op de voorkant van voedingsmiddelen).</p>
+<p>&nbsp;</p>
+<p>Voor meer informatie over mogelijke maatregelen wordt verwezen naar de onderliggende modules.</p>
+<p>&nbsp;</p>
+<p><strong>Submodule 4.2 Waar te interveniëren op individueel niveau</strong></p>
+<p>Preventie van hart- en vaatziekten is maatwerk en gebeurt op basis van besluitvorming door de patiënt en zijn/haar zorgverlener. Afspraken over de doelen en soort behandeling worden vastgelegd in een individueel zorgplan. Dit gebeurt voornamelijk in de eerste lijn; de eerste lijns zorgverleners behandelen het grootste deel van de patiënten en zijn hiermee de spil van preventie van hart – en vaatziekten. De praktijkondersteuner somatiek doet de meeste van deze consulten. Het is van belang om de zorg rond cardiovasculaire preventie goed te regelen en te borgen in de eerste lijn. Meestal kan de eerste lijn de patiënt afdoende begeleiden en behandelen. Soms is echter verwijzing noodzakelijk. De indicaties voor verwijzing zijn beschreven in de LTA (Landelijke Transmurale Afspraak) CVRM.</p>
+<p>&nbsp;</p>
+<p>Bij een acute opname in het ziekenhuis voor een hart- en vaatziekte moet direct worden gestart met preventieve maatregelen ter voorkoming van een recidief hart- en vaatziekte. Naast de medicamenteuze behandelingen zijn leefstijladviezen van groot belang. Deze kunnen niet genoeg benadrukt worden. Na de opname voor een hart- en vaatziekte zijn verschillende revalidatieprogramma’s beschikbaar. Het is aan te bevelen om de patiënt hiervoor te verwijzen. De programma’s richten zich naast de lichamelijke revalidatie ook op gedragsverandering. Na het revalidatieprogramma blijft aandacht voor gedragsverandering noodzakelijk om terugval te voorkomen.</p>
+<p>&nbsp;</p>
+<p><strong>Aanbevelingen</strong></p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Maak met de patiënt afspraken over de cardiovasculaire preventie toegespitst op het individu en op basis van besluitvorming door de patiënt en de zorgverlener.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Beschrijf de afspraken in een individueel zorgplan.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Maak regionale afspraken over waar welke zorg verleend wordt op basis van de Landelijke Transmurale Afspraken CVRM.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Bied een cardiovasculair risicomanagementprogramma aan vanuit de eerste lijn bij personen met een hoog of zeer hoog risico op hart- en vaatziekten.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Bied cardiovasculair risicomanagement aan als onderdeel van de medisch specialistische behandeling indien nodig in samenwerking en afstemming met:</p>
+<ul>
+<li>andere specialismen en zorgverleners binnen de tweede lijn;</li>
+<li>de eerste lijn.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Start direct met cardiovasculair risicomanagement na een acute manifestatie van hart- of vaatziekte voordat de patiënt uit het ziekenhuis wordt ontslagen om het risico op ziekte en sterfte te verminderen.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Bied hartrevalidatie aan aan patiënten opgenomen voor een acuut myocardinfarct, PCI of CABG en aan patiënten met hartfalen (zie ook de richtlijn <a href="https://richtlijnendatabase.nl/richtlijn/hartrevalidatie/hartrevalidatie_-_startpagina.html" target="_blank" rel="noopener">Hartrevalidatie</a>).</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Bied revalidatie aan patiënten met een beroerte (richtlijn <a href="https://richtlijnendatabase.nl/richtlijn/herseninfarct_en_hersenbloeding/startpagina_herseninfarct_-bloeding.html" target="_blank" rel="noopener">Herseninfarct en hersenbloeding</a>).</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="97%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="100%">
+<p>Bied gesuperviseerde looptraining aan patiënten met <a href="https://richtlijnendatabase.nl/richtlijn/perifeer_arterieel_vaatlijden_pav/pav_-_startpagina.html" target="_blank" rel="noopener">perifeer arterieel vaatlijden</a>.</p>
+</td>
+</tr>
+</tbody>
+</table><section id="accountability_wrapper" class="collapsible my-3"><div class="d-flex justify-content-between align-items-center" data-toggle="collapse" data-target="#accountability_content" aria-expanded="false" aria-controls="accountability_content"><h2 class="h5 mb-0">Verantwoording</h2><span class="fa-stack fa-sm text-secondary" aria-hidden="true">    <span class="fas fa-circle fa-stack-2x"></span>    <span class="fas fa-plus fa-stack-1x fa-inverse"></span></span></div><div id="accountability_content" class="collapse"><div id="accountability" class="module-content"><section id="validity_wrapper" class="my-3"><h2 class="h4">Autorisatiedatum en geldigheid</h2><div id="validity" class="module-content module-content-editable"><div class="d-table mb-3"><p class="d-table-row"><span class="d-table-cell">Laatst beoordeeld </span><span class="d-table-cell">&nbsp;: 06-03-2019</span></p><p class="d-table-row"><span class="d-table-cell">Laatst geautoriseerd </span><span class="d-table-cell">&nbsp;: 06-03-2019</span></p></div><p>Uiterlijk in 2020 bepalen het bestuur van het Nederlands Huisartsen Genootschap, de Nederlandse Internisten Vereniging en de Nederlandse Vereniging voor Cardiologie of de modules van deze richtlijn nog actueel zijn. Bij het opstellen van de richtlijn heeft de werkgroep per module een inschatting gemaakt van de maximale termijn waarop herbeoordeling moet plaatsvinden en eventuele aandachtspunten geformuleerd die van belang zijn bij een toekomstige herziening. De geldigheid van de richtlijn komt eerder te vervallen indien nieuwe ontwikkelingen aanleiding zijn een herzieningstraject te starten.</p>
+<p>&nbsp;</p>
+<p>Het Nederlands Huisartsen Genootschap, de Nederlandse Internisten Vereniging en de Nederlandse Vereniging voor Cardiologie zijn regiehouder van deze richtlijn en eerstverantwoordelijke op het gebied van de actualiteitsbeoordeling van de richtlijn. De andere aan deze richtlijn deelnemende wetenschappelijke verenigingen of gebruikers van de richtlijn delen de verantwoordelijkheid en informeren de regiehouder over relevante ontwikkelingen binnen hun vakgebied.</p></div></section><section id="initiative_and_authorisation_wrapper" class="my-3"><h2 class="h4">Initiatief en autorisatie</h2><div id="initiative_and_authorisation" class="module-content"><span>Initiatief:</span><ul>
+<li>Nederlands Huisartsen Genootschap</li>
+<li>Nederlandse Internisten Vereniging</li>
+<li>Nederlandse Vereniging voor Cardiologie</li>
+</ul>
+<span>Geautoriseerd door:</span><ul>
+<li>Koninklijk Nederlands Genootschap voor Fysiotherapie</li>
+<li>Nederlands Huisartsen Genootschap</li>
+<li>Nederlandse Internisten Vereniging</li>
+<li>Nederlandse Vereniging voor Cardiologie</li>
+<li>Nederlandse Vereniging voor Klinische Geriatrie</li>
+<li>Nederlandse Vereniging voor Neurologie</li>
+<li>Nederlandse Vereniging voor Reumatologie</li>
+<li>Verpleegkundigen en Verzorgenden Nederland</li>
+<li>Nederlandse Vereniging voor Klinische Chemie en Laboratoriumgeneeskunde</li>
+<li>Nederlandse Vereniging voor Hart- en Vaat Verpleegkundigen </li>
+</ul>
+</div></section><section id="general_wrapper" class="my-3"><h2 class="h4">Algemene gegevens</h2><div id="general" class="module-content module-content-editable"><p>De richtlijnontwikkeling werd ondersteund door het Nederlands Huisartsen Genootschape en het Kennisinstituut van de Federatie Medisch Specialisten (www.kennisinstituut.nl) en werd gefinancierd door het Nederlands Huisartsen Genootschap en de Stichting Kwaliteitsgelden Medisch Specialisten (SKMS).</p></div></section><section id="objective_audience_wrapper" class="my-3"><h2 class="h4">Doel en doelgroep</h2><div id="objective_audience" class="module-content module-content-editable"><p><em>Doel</em></p>
+<p>Het doel van deze multidisciplinaire richtlijn is het optimaliseren van de preventie van hart- en vaatziekten met specifieke focus op individuen met een verhoogd risico op hart- en vaatziekten.</p>
+<p>&nbsp;</p>
+<p><em>Doelgroep </em></p>
+<p>Deze multidisciplinaire richtlijn is geschreven voor alle zorgverleners die betrokken zijn bij cardiovasculair risicomanagement</p></div></section><section id="composition_workgroup_wrapper" class="my-3"><h2 class="h4">Samenstelling werkgroep</h2><div id="composition_workgroup" class="module-content module-content-editable"><p>In 2016 is een multidisciplinaire werkgroep ingesteld, bestaand uit vertegenwoordigers van alle relevante specialismen die betrokken zijn bij de preventie van hart- en vaatziekten.</p>
+<p>&nbsp;</p>
+<p>De werkgroepleden zijn door hun beroepsverenigingen gemandateerd voor deelname. De werkgroep is verantwoordelijk voor de integrale tekst van deze richtlijn.</p>
+<p>&nbsp;</p>
+<p><em>Werkgroep</em></p>
+<ul>
+<li>Prof. dr. A.W. (Arno) Hoes, klinisch epidemioloog, werkzaam in het Julius Centrum van het UMC Utrecht te Utrecht (voorzitter)</li>
+<li>Dr.ir. I. (Ineke) van Dis, epidemioloog en voedingswetenschapper, werkzaam bij de Hartstichting te Den Haag, Hartstichting</li>
+<li>Y.A. (Yvette) Henstra, verpleegkundig specialist vasculaire geneeskunde, werkzaam in het OVLG te Amsterdam, NVHVV</li>
+<li>Dr. H.M. (Heleen) den Hertog, neuroloog, werkzaam in het Isala Ziekenhuis te Zwolle, NVN</li>
+<li>Dr. K. (Karen) Konings, kaderhuisarts hart- en vaatziekten, werkzaam in huisartsenpraktijk K. Konings te Maastricht, NHG</li>
+<li>H. (Hans) van Laarhoven, manager team collectieve belangenbehartiging, werkzaam bij Hartenraad te Den Haag, Harteraad</li>
+<li>Dr. A.H. (AnHo) Liem, cardioloog, werkzaam in het Franciscus Gasthuis &amp; Vlietland te Rotterdam, NVVC</li>
+<li>Dr. F.M.A.C. (Fabrice) Martens, cardioloog, werkzaam in het Deventer Ziekenhuis te Deventer, NVVC</li>
+<li>Prof. dr. Y.M. (Yvo) Smulders, internist-vasculair geneeskundige, werkzaam in het Amsterdam UMC, locatie VUmc te Amsterdam, NIV</li>
+<li>Drs. A. (Anne-Margreet) Strijbis, relatiemanager zorg, werkzaam bij Harteraad te Den Haag, Harteraad</li>
+<li>Drs. J.J.S. (Judith) Tjin-A-Ton, kaderhuisarts hart- en vaatziekten, werkzaam in huisartsenpraktijk Frakking &amp; Tjin-A-Ton te Amstelveen, NHG</li>
+<li>Prof. dr. F.L.J. (Frank) Visseren, internist-vasculair geneeskundige, werkzaam in het UMC Utrecht te Utrecht, NIV</li>
+</ul>
+<p>&nbsp;</p>
+<p><em>Met ondersteuning van:</em></p>
+<ul>
+<li>G.M. (Maike) van Leeuwen, beleid- en projectondersteuner, NIV</li>
+<li>Dr. Tj. (Tjerk) Wiersma, senior-wetenschappelijk medewerker, NHG</li>
+<li>Dr. W. (Wouter) de Ruijter, wetenschappelijk medewerker, NHG tot augustus 2017</li>
+<li>Drs. M. (Martijn) Sijbom, wetenschappelijk medewerker, NHG vanaf augustus 2017</li>
+<li>Dr. I.M. (Iris) Wichers, wetenschappelijk medewerker, NHG</li>
+<li>Dr. B.H. (Bernardine) Stegeman, senior adviseur, Kennisinstituut van FMS</li>
+<li>Dr. J. (Janneke) Hoogervorst-Schilp, adviseur, Kennisinstituut van FMS tot april 2018</li>
+<li>Dr. A. (Aleid) Wirix, adviseur, Kennisinstituut van FMS vanaf april 2018</li>
+<li>N.F. (Natalia) Bullock, projectsecretaresse, Kennisinstituut van FMS tot januari 2018</li>
+<li>J. (Jill) Heij, junior projectsecretaresse, Kennisinstituut van FMS vanaf februari 2018</li>
+</ul></div></section><section id="merits_declaration_wrapper" class="my-3"><h2 class="h4">Belangenverklaringen</h2><div id="merits_declaration" class="evidence-tables module-content module-content-editable"><p>De KNMG-code ter voorkoming van oneigenlijke beïnvloeding door belangenverstrengeling is gevolgd. Alle werkgroepleden hebben schriftelijk verklaard of ze in de laatste drie jaar directe financiële belangen (betrekking bij een commercieel bedrijf, persoonlijke financiële belangen, onderzoek financiering) of indirecte belangen (persoonlijke relaties, reputatiemanagement, kennisvalorisatie) hebben gehad. Een overzicht van de belangen van werkgroepleden en het oordeel over het omgaan met eventuele belangen vindt u in onderstaande tabel. De ondertekende belangenverklaringen zijn op te vragen bij het secretariaat van het Kennisinstituut van de Federatie Medisch Specialisten.</p>
+<p>&nbsp;</p>
+<div><button class="btn btn-primary my-3">Vergroot tabel</button><table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="73">
+<p><strong>Werkgroeplid </strong></p>
+</td>
+<td valign="top" width="151">
+<p><strong>Functie</strong></p>
+</td>
+<td valign="top" width="130">
+<p><strong>Nevenfuncties</strong></p>
+</td>
+<td valign="top" width="127">
+<p><strong>Gemelde belangen </strong></p>
+</td>
+<td valign="top" width="79">
+<p><strong>Ondernomen actie</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="73">
+<p>Hoes (voorzitter)</p>
+</td>
+<td valign="top" width="151">
+<ul>
+<li style="list-style: none;">
+<ul>
+<li>Hoogleraar Klinisch Epidemiologie &amp; Huisartsengeneeskunde</li>
+<li>Voorzitter/medisch manager, divisie Julius Centrum voor Gezondheidswetenschappen en Eerstelijns Geneeskunde, UMC Utrecht</li>
+<li>Voorzitter/medisch manager a.i., divisie Interne Geneeskunde en Dermatologie, UM Utrecht (tot juni 2017)</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top" width="130">
+<ul>
+<li style="list-style: none;">
+<ul>
+<li>Lid College ter Beoordeling van Geneesmiddelen, Ministerie van VWS (betaalde functie honorarium) (tot oktober 2016)</li>
+<li>Lid Board Heart Failure Association, European Society of Cardiology (ESC) (onbetaald) (tot september 2018)</li>
+<li>Lid Board European Association for Preventive Cardiology, ESC (onbetaald)</li>
+<li>Lid Editorial Board European Journal of Heart Failure (onbetaald)</li>
+<li>Lid Editorial Board ESC Heart Failure (onbetaald)</li>
+<li>Lid commissie Zorg Binnen Bereik, een stichting, met als private partners Achmea en Philips, die tot doel heeft zorgplatforms voor chronische ziekten (hartfalen, COPD en diabetes) te ontwikkelen en te implementeren om zelfzorg te bevorderen. (onbetaald) (tot oktober 2016)</li>
+<li>Mede-voorzitter Task Force Guidelines Prevention of Cardiovascular Disease in Clinical Practice (ESC) (onbetaald).</li>
+<li>Voorzitter Council for Cardiovascular Primary Care van de ESC (onbetaald) (tot september 2018).</li>
+<li>Lid visitatiecommissie Inspectie voor de Gezondheidszorg (betaald) (tot juni 2016)</li>
+<li>Lid Board European Primary Care Cardiovascular Society (onbetaald) (tot December 2017)</li>
+<li>Lid Raad van Toezicht namens UMC Utrecht van Stichting HUB (stichting die organoiden ontwikkelt) (onbetaald).</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top" width="127">
+<p>-</p>
+</td>
+<td valign="top" width="79">
+<p>Geen</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="73">
+<p>Konings</p>
+</td>
+<td valign="top" width="151">
+<p>Kaderhuisarts hart- en vaatziekten</p>
+</td>
+<td valign="top" width="130">
+<p>-</p>
+</td>
+<td valign="top" width="127">
+<p>-</p>
+</td>
+<td valign="top" width="79">
+<p>Geen</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="73">
+<p>Tjin-A-Ton</p>
+</td>
+<td valign="top" width="151">
+<p>Kaderhuisarts hart- en vaatziekten</p>
+</td>
+<td valign="top" width="130">
+<ul>
+<li style="list-style: none;">
+<ul>
+<li>Huisartsopleider VUMC</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top" width="127">
+<p>-</p>
+</td>
+<td valign="top" width="79">
+<p>Geen</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="73">
+<p>Visseren</p>
+</td>
+<td valign="top" width="151">
+<ul>
+<li style="list-style: none;">
+<ul>
+<li>Hoogleraar Vasculaire geneeskunde</li>
+<li>Opleider Vasculaire geneeskunde</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top" width="130">
+<ul>
+<li style="list-style: none;">
+<ul>
+<li>Lid sectie Vasculaire geneeskunde, deelspecialisme NIV</li>
+<li>Werkgroeplid van de werkgroepen (erfelijke) dyslipidemie in de tweede en derde lijn en het addendum (kwetsbare) ouderen bij de CVRM-richtlijn</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top" width="127">
+<p>Deelname aan fase II en II multicenter trials oer PSCK9-antilichamen. Betrokken bij patiënteninclusie, geen data-analyse</p>
+</td>
+<td valign="top" width="79">
+<p>Geen</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="73">
+<p>Smulders</p>
+</td>
+<td valign="top" width="151">
+<ul>
+<li style="list-style: none;">
+<ul>
+<li>Hoogleraar Interne Geneeskunde</li>
+<li>Opleider Interne Geneeskunde</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top" width="130">
+<ul>
+<li style="list-style: none;">
+<ul>
+<li>Adjunct-hoofdredacteur Nederlands Tijdschrift voor Geneeskunde</li>
+<li>Lid beoordelingscommissies Zon-Mw</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top" width="127">
+<p>-</p>
+</td>
+<td valign="top" width="79">
+<p>Geen</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="73">
+<p>Liem</p>
+</td>
+<td valign="top" width="151">
+<ul>
+<li style="list-style: none;">
+<ul>
+<li>Cardioloog</li>
+<li>Opleider</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top" width="130">
+<ul>
+<li style="list-style: none;">
+<ul>
+<li>Ontwikkeling onderwijsmodules NVVC</li>
+<li>Werkgroeplid van de werkgroep (erfelijke) dyslipidemie in de tweede en derde lijn</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top" width="127">
+<p>Advies aan universiteiten en industrie over dyslipidemie en lipidenverlaende middelen</p>
+</td>
+<td valign="top" width="79">
+<p>Geen actie; advies over alle middelen</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="73">
+<p>Martens</p>
+</td>
+<td valign="top" width="151">
+<p>Cardioloog</p>
+</td>
+<td valign="top" width="130">
+<p>Bestuurslid Werkgroep Cardiologische centra Nederland (WCN)</p>
+</td>
+<td valign="top" width="127">
+<p>Advies aan universiteiten en industrie over dyslipidemie en lipidenverlaende middelen</p>
+</td>
+<td valign="top" width="79">
+<p>Geen actie; advies over alle middelen</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="73">
+<p>Den Hertog</p>
+</td>
+<td valign="top" width="151">
+<p>Neuroloog</p>
+</td>
+<td valign="top" width="130">
+<ul>
+<li style="list-style: none;">
+<ul>
+<li>Lid werkgroep regionaal CVRM Thoon (huisartsen)</li>
+<li>Projectleider Benefietconsortium Hartstichting</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top" width="127">
+<p>-</p>
+</td>
+<td valign="top" width="79">
+<p>Geen</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="73">
+<p>Henstra</p>
+</td>
+<td valign="top" width="151">
+<p>Verpleegkundig Specialist Vasculaire geneeskunde</p>
+</td>
+<td valign="top" width="130">
+<p>-</p>
+</td>
+<td valign="top" width="127">
+<p>Advies aan industrie lancering nieuwe medicatie bij FH</p>
+</td>
+<td valign="top" width="79">
+<p>Geen; valt buiten het bestek van de richtlijn</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="73">
+<p>Strijbis</p>
+</td>
+<td valign="top" width="151">
+<p>Relatiemanager Hartenraad</p>
+</td>
+<td valign="top" width="130">
+<p>Werkgroeplid Hypertensie in de tweede en derde lijn</p>
+</td>
+<td valign="top" width="127">
+<p>-</p>
+</td>
+<td valign="top" width="79">
+<p>Geen</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="73">
+<p>Van Laarhoven</p>
+</td>
+<td valign="top" width="151">
+<ul>
+<li style="list-style: none;">
+<ul>
+<li>Manger Team Collectieve belangenbehartiging Hartenraad</li>
+<li>Beleidsadviseur Hartenraad</li>
+<li>Waarnemend directeur Hartenraad</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top" width="130">
+<p>Werkgroeplid (erfelijke) dyslipidemie in de tweede en derde lijn</p>
+</td>
+<td valign="top" width="127">
+<p>-</p>
+</td>
+<td valign="top" width="79">
+<p>Geen</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="73">
+<p>Van Dis</p>
+</td>
+<td valign="top" width="151">
+<ul>
+<li style="list-style: none;">
+<ul>
+<li>Beleidsadviseur Hartstichting</li>
+</ul>
+</li>
+</ul>
+</td>
+<td valign="top" width="130">
+<p>Lid van de werkgroep Voeding van de European Heart Network</p>
+</td>
+<td valign="top" width="127">
+<p>Hartstichting heeft een samenwerkingscontract met Unilever</p>
+</td>
+<td valign="top" width="79">
+<p>Geen</p>
+</td>
+</tr>
+</tbody>
+</table></div></div></section><section id="influence_patient_vision_wrapper" class="my-3"><h2 class="h4">Inbreng patiëntenperspectief</h2><div id="influence_patient_vision" class="module-content module-content-editable"><p>Er werd aandacht besteed aan het patiëntenperspectief door afgevaardiging van de patiëntenvereniging in de werkgroep. De conceptrichtlijn is tevens voor commentaar voorgelegd aan Hartenraad en Hartstichting.</p></div></section><section id="method_development_wrapper" class="my-3"><h2 class="h4">Methode ontwikkeling</h2><div id="method_development" class="module-content"><p>Evidence based</p></div></section><section id="implementation_wrapper" class="my-3"><h2 class="h4">Implementatie</h2><div id="implementation" class="module-content module-content-editable"><p>In de verschillende fasen van de richtlijnontwikkeling is rekening gehouden met de implementatie van de richtlijn (module) en de praktische uitvoerbaarheid van de aanbevelingen. Daarbij is uitdrukkelijk gelet op factoren die de invoering van de richtlijn in de praktijk kunnen bevorderen of belemmeren. Het implementatieplan is te vinden bij de aanverwante producten. CVRM-indicatoren zijn separaat aan de herziening van deze richtlijn ontwikkeld en te vinden op <a href="https://www.nhg.org/themas/publicaties/download-indicatoren-archief" target="_blank">https://www.nhg.org/themas/publicaties/download-indicatoren-archief</a>.</p></div></section><section id="working_method_wrapper" class="my-3"><h2 class="h4">Werkwijze</h2><div id="working_method" class="module-content module-content-editable"><p><em>AGREE</em></p>
+<p>Deze richtlijn is opgesteld conform de eisen vermeld in het rapport Medisch Specialistische Richtlijnen 2.0 van de adviescommissie Richtlijnen van de Raad Kwaliteit. Dit rapport is gebaseerd op het AGREE II instrument (Appraisal of Guidelines for Research &amp; Evaluation II; Brouwers, 2010), dat een internationaal breed geaccepteerd instrument is. Voor een stapsgewijze beschrijving hoe een evidence-based richtlijn tot stand komt wordt verwezen naar het stappenplan Ontwikkeling van Medisch Specialistische Richtlijnen van het Kennisinstituut van de Federatie Medisch Specialisten.</p>
+<p>&nbsp;</p>
+<p><em>Knelpuntenanalyse</em></p>
+<p>Tijdens de voorbereidende fase inventariseerden de voorzitter van de werkgroep en de adviseur de knelpunten. Voor het herzien van de Nederlandse multidisciplinaire richtlijn CVRM heeft de werkgroep besloten uit te gaan van de Europese richtlijn Cardiovascular disease prevention in clinical practice uit 2016. Deze richtlijn was op het moment van starten de meest recente richtlijn met de meest recente evidence. De werkgroep beoordeelde de aanbevelingen uit de eerder genoemde richtlijn op noodzaak tot revisie. Tevens zijn er knelpunten aangedragen tijdens een Invitational conference door Diabetesvereniging Nederland, IGZ, FMCC, Hartenraad (voorheen De Hart&amp;Vaatgroep), KNGF, KNMP, NHG, NVAB, NVALT, NVR, NVVC, Verenso en InEen. De werkgroep stelde vervolgens een lijst met knelpunten op en prioriteerde de knelpunten op basis van: (1) klinische relevantie, (2) de beschikbaarheid van (nieuwe) evidence van hoge kwaliteit, en (3) de te verwachten impact op de kwaliteit van zorg, patiëntveiligheid en (macro)kosten.</p>
+<p>&nbsp;</p>
+<p><em>Uitgangsvragen en uitkomstmaten</em></p>
+<p>Op basis van de uitkomsten van de knelpuntenanalyse hebben de voorzitter en de ondersteuners concept-uitgangsvragen opgesteld. Deze zijn met de werkgroep besproken waarna de werkgroep de definitieve uitgangsvragen heeft vastgesteld. Vervolgens inventariseerde de werkgroep per uitgangsvraag welke uitkomstmaten voor de patiënt relevant zijn, waarbij zowel naar gewenste als ongewenste effecten werd gekeken. De werkgroep waardeerde deze uitkomstmaten volgens hun relatieve belang bij de besluitvorming over aanbevelingen, als kritiek, belangrijk (maar niet kritiek) en onbelangrijk. Tevens definieerde de werkgroep in ieder geval voor de kritieke uitkomstmaten welke verschillen zij klinisch (patiënt) relevant vonden.</p>
+<p>&nbsp;</p>
+<p><em>Strategie voor zoeken en selecteren van literatuur</em></p>
+<p>Er werd voor de afzonderlijke uitgangsvragen aan de hand van specifieke zoektermen gezocht naar gepubliceerde wetenschappelijke onderzoeken in (verschillende) elektronische databases. Tevens werd aanvullend gezocht naar onderzoeken aan de hand van de literatuurlijsten van de geselecteerde artikelen. In eerste instantie werd gezocht naar onderzoeken met de hoogste mate van bewijs. De werkgroepleden selecteerden de via de zoekactie gevonden artikelen op basis van vooraf opgestelde selectiecriteria. Deze geselecteerde artikelen werden gebruikt om de uitgangsvraag te beantwoorden. De databases waarin is gezocht, de zoekstrategie en de gehanteerde selectiecriteria zijn te vinden in de module met de desbetreffende uitgangsvraag. De zoekstrategie voor de oriënterende zoekactie en patiënte perspectief zijn opgenomen onder aanverwante producten.</p>
+<p>&nbsp;</p>
+<p><em>Kwaliteitsbeoordeling individuele onderzoeken</em></p>
+<p>Individuele onderzoeken werden systematisch beoordeeld, op basis van op voorhand opgestelde methodologische kwaliteitscriteria, om zo het risico op vertekende onderzoeksresultaten (Risk of Bias) te kunnen inschatten. Deze beoordelingen kunt u vinden in de ‘Risk of Bias’ (RoB) tabellen. De gebruikte RoB instrumenten zijn gevalideerde instrumenten die worden aanbevolen door de Cochrane Collaboration: AMSTAR – voor systematische reviews; Cochrane – voor gerandomiseerd gecontroleerd onderzoek; Newcastle-Ottawa – voor observationeel onderzoek; QUADAS II – voor diagnostisch onderzoek.</p>
+<p>&nbsp;</p>
+<p><em>Samenvatten van de literatuur</em></p>
+<p>De relevante onderzoeksgegevens van alle geselecteerde artikelen werden overzichtelijk weergegeven in evidence-tabellen. De belangrijkste bevindingen uit de literatuur werden beschreven in de samenvatting van de literatuur. Bij een voldoende aantal onderzoeken en overeenkomstigheid (homogeniteit) tussen de onderzoeken werden de gegevens ook kwantitatief samengevat (meta-analyse) met behulp van Review Manager 5.</p>
+<p>&nbsp;</p>
+<p><em>Beoordelen van de kracht van het wetenschappelijke bewijs</em></p>
+<p>A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Voor interventievragen (vragen over therapie of screening)</p>
+<p>De kracht van het wetenschappelijke bewijs werd bepaald volgens de GRADE-methode. GRADE staat voor Grading Recommendations Assessment, Development and Evaluation (zie http://www.gradeworkinggroup.org/).</p>
+<p>&nbsp;</p>
+<p>GRADE onderscheidt vier gradaties voor de kwaliteit van het wetenschappelijk bewijs: hoog, redelijk, laag en zeer laag. Deze gradaties verwijzen naar de mate van zekerheid die er bestaat over de literatuurconclusie (Schünemann, 2013).</p>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="64">
+<p><strong>GRADE</strong></p>
+</td>
+<td valign="top" width="501">
+<p><strong>Definitie</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="64">
+<p>Hoog</p>
+</td>
+<td valign="top" width="501">
+<ul>
+<li>Er is hoge zekerheid dat het ware effect van behandeling dichtbij het geschatte effect van behandeling ligt zoals vermeld in de literatuurconclusie;</li>
+<li>Het is zeer onwaarschijnlijk dat de literatuurconclusie verandert wanneer er resultaten van nieuw grootschalig onderzoek aan de literatuuranalyse worden toegevoegd.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td valign="top" width="64">
+<p>Redelijk</p>
+</td>
+<td valign="top" width="501">
+<ul>
+<li>Er is redelijke zekerheid dat het ware effect van behandeling dichtbij het geschatte effect van behandeling ligt zoals vermeld in de literatuurconclusie;</li>
+<li>Het is mogelijk dat de conclusie verandert wanneer er resultaten van nieuw grootschalig onderzoek aan de literatuuranalyse worden toegevoegd.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td valign="top" width="64">
+<p>Laag</p>
+</td>
+<td valign="top" width="501">
+<ul>
+<li>Er is lage zekerheid dat het ware effect van behandeling dichtbij het geschatte effect van behandeling ligt zoals vermeld in de literatuurconclusie;</li>
+<li>Er is een reële kans dat de conclusie verandert wanneer er resultaten van nieuw grootschalig onderzoek aan de literatuuranalyse worden toegevoegd.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td valign="top" width="64">
+<p>Zeer laag</p>
+</td>
+<td valign="top" width="501">
+<ul>
+<li>Er is zeer lage zekerheid dat het ware effect van behandeling dichtbij het geschatte effect van behandeling ligt zoals vermeld in de literatuurconclusie;</li>
+<li>De literatuurconclusie is zeer onzeker.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><u>B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Voor vragen over diagnostische tests, schade of bijwerkingen, etiologie en prognose</u></p>
+<p>De kracht van het wetenschappelijke bewijs werd eveneens bepaald volgens de GRADE-methode: GRADE-diagnostiek voor diagnostische vragen (Schünemann, 2008) en een generieke GRADE-methode voor vragen over schade of bijwerkingen, etiologie en prognose. In de gehanteerde generieke GRADE-methode werden de basisprincipes van de GRADE-methodiek toegepast: het benoemen en prioriteren van de klinisch (patiënt)relevante uitkomstmaten, een systematische review per uitkomstmaat en een beoordeling van bewijskracht op basis van de vijf GRADE-criteria (startpunt hoog; downgraden voor Risk of Bias, inconsistentie, indirectheid, imprecisie, en publicatiebias).</p>
+<p>&nbsp;</p>
+<p><em>Formuleren van de conclusies</em></p>
+<p>Voor elke relevante uitkomstmaat werd het wetenschappelijk bewijs samengevat in een of meerdere literatuurconclusies waarbij het niveau van bewijs werd bepaald volgens de GRADE-methodiek. De werkgroepleden maakten de balans op van elke interventie. Bij het opmaken van de balans werden de gunstige en ongunstige effecten voor de patiënt afgewogen. De uiteindelijke bewijskracht wordt bepaald door de laagste bewijskracht gevonden bij een van de kritieke uitkomstmaten. Bij complexe besluitvorming waarin naast de conclusies uit de systematische literatuuranalyse vele aanvullende argumenten (overwegingen) een rol spelen, werd afgezien van een overkoepelende conclusie. In dat geval werden de gunstige en ongunstige effecten van de interventies samen met alle aanvullende argumenten gewogen onder het kopje Overwegingen.</p>
+<p>&nbsp;</p>
+<p><em>Overwegingen (van bewijs naar aanbeveling)</em></p>
+<p>Om te komen tot een aanbeveling worden naast (de kwaliteit van) het wetenschappelijke bewijs ook andere belangrijke aspecten meegewogen, zoals de waarden en voorkeuren van de patiënt (<em>patient values and preferences</em>), kosten, beschikbaarheid van voorzieningen en organisatorische zaken. Deze aspecten worden, voor zover geen onderdeel van de literatuursamenvatting, vermeld en beoordeeld (gewogen) onder het kopje Overwegingen.</p>
+<p>&nbsp;</p>
+<p><em>Formuleren van aanbevelingen</em></p>
+<p>De aanbevelingen geven antwoord op de uitgangsvraag en zijn gebaseerd op het beschikbare wetenschappelijke bewijs en de belangrijkste overwegingen, en een weging van de gunstige en ongunstige effecten van de relevante interventies. De kracht van het wetenschappelijk bewijs en het gewicht dat de werkgroep toekent aan de overwegingen, bepalen samen de sterkte van de aanbeveling. Conform de GRADE-methodiek sluit een lage bewijskracht van conclusies in de systematische literatuuranalyse een sterke aanbeveling niet a priori uit, en zijn bij een hoge bewijskracht ook zwakke aanbevelingen mogelijk. De sterkte van de aanbeveling wordt altijd bepaald door weging van alle relevante argumenten tezamen.</p>
+<p>&nbsp;</p>
+<p><em>Randvoorwaarden (organisatie van zorg)</em></p>
+<p>In de knelpuntenanalyse en bij de ontwikkeling van de richtlijn is expliciet rekening gehouden met de organisatie van zorg: alle aspecten die randvoorwaardelijk zijn voor het verlenen van zorg (zoals coördinatie, communicatie, (financiële) middelen, menskracht en infrastructuur). Randvoorwaarden die relevant zijn voor het beantwoorden van een specifieke uitgangsvraag maken deel uit van de overwegingen bij de bewuste uitgangsvraag. Meer algemene, overkoepelende, of bijkomende aspecten van de organisatie van zorg worden behandeld in de module Organisatie van zorg.</p>
+<p>&nbsp;</p>
+<p><em>Kennislacunes</em></p>
+<p>Tijdens de ontwikkeling van deze richtlijn is systematisch gezocht naar onderzoek waarvan de resultaten bijdragen aan een antwoord op de uitgangsvragen. Bij elke uitgangsvraag is door de werkgroep nagegaan of er (aanvullend) wetenschappelijk onderzoek gewenst is om de uitgangsvraag te kunnen beantwoorden.</p>
+<p>&nbsp;</p>
+<p><em>Commentaar- en autorisatiefase</em></p>
+<p>De conceptrichtlijn werd aan de betrokken (wetenschappelijke) verenigingen en (patiënt) organisaties voorgelegd voor commentaar. De commentaren werden verzameld en besproken met de werkgroep. Naar aanleiding van de commentaren werd de conceptrichtlijn aangepast en heeft de werkgroep de richtlijn definitief vastgesteld. De definitieve richtlijn werd aan de deelnemende (wetenschappelijke) verenigingen en (patiënt) organisaties voorgelegd voor autorisatie en door hen geautoriseerd dan wel geaccordeerd.</p></div></section></div></div></section>
+                                    <section id="related_products_wrapper" class="collapsible my-3"><div class="d-flex justify-content-between align-items-center" data-toggle="collapse" data-target="#related_products_content" aria-expanded="false" aria-controls="related_products_content"><h2 class="h5 mb-0"><span class="fas fa-paperclip text-secondary mr-2" aria-hidden="true"></span>Bijlagen</h2><span class="fa-stack fa-sm text-secondary" aria-hidden="true">    <span class="fas fa-circle fa-stack-2x"></span>    <span class="fas fa-plus fa-stack-1x fa-inverse"></span></span></div><div id="related_products_content" class="collapse"><div id="related_products" class="module-content"><ul class="list-unstyled"><li class="mb-4"><strong>Achtergrond en definities</strong><ul class="list-unstyled mt-2 ml-1"><li class="mb-2"><a href="/gerelateerde_documenten/bijlage/18298/1/60/Algemene%20inleiding.html" class="text-body attachment" data-fancybox="attachment" data-type="ajax"><span class="fas fa-chevron-right text-secondary mr-3" aria-hidden="true"></span>Algemene inleiding</a></li><li class="mb-2"><a href="/gerelateerde_documenten/bijlage/18298/1/61/Begrippenlijst.html" class="text-body attachment" data-fancybox="attachment" data-type="ajax"><span class="fas fa-chevron-right text-secondary mr-3" aria-hidden="true"></span>Begrippenlijst</a></li><li class="mb-2"><a href="/gerelateerde_documenten/bijlage/18298/1/90/Totstandkoming%20risicotabel%20CVRM%202018.html" class="text-body attachment" data-fancybox="attachment" data-type="ajax"><span class="fas fa-chevron-right text-secondary mr-3" aria-hidden="true"></span>Totstandkoming risicotabel CVRM 2018</a></li></ul></li><li class="mb-4"><strong>Toepassen</strong><ul class="list-unstyled mt-2 ml-1"><li class="mb-2"><a href="/gerelateerde_documenten/bijlage/18298/1/80/Implementatieplan.html" class="text-body attachment" data-fancybox="attachment" data-type="ajax"><span class="fas fa-chevron-right text-secondary mr-3" aria-hidden="true"></span>Implementatieplan</a></li><li class="mb-2"><a href="/gerelateerde_documenten/f/18298/Stroomschema%20CVRM.pdf" class="text-body file" target="_blank"><span class="fas fa-arrow-to-bottom text-secondary mr-3" aria-hidden="true"></span>Stroomschema CVRM.pdf</a></li></ul></li></ul></div></div></section>                
+                                    <section id="related_content_wrapper" class="collapsible my-3"><div class="d-flex justify-content-between align-items-center" data-toggle="collapse" data-target="#related_content_content" aria-expanded="false" aria-controls="related_content_content"><h2 class="h5 mb-0"><span class="fas fa-share-alt text-secondary mr-2" aria-hidden="true"></span>Aanverwante richtlijnen</h2><span class="fa-stack fa-sm text-secondary" aria-hidden="true">    <span class="fas fa-circle fa-stack-2x"></span>    <span class="fas fa-plus fa-stack-1x fa-inverse"></span></span></div><div id="related_content_content" class="collapse"><div id="related_content" class="module-content"><strong class="d-block mb-2">Richtlijnen</strong><ul class="list-unstyled">
+<li><a href="/richtlijn/erfelijke_dyslipidemie_in_de_2e_en_3e_lijn" class="text-body hyperlink">
+    <span class="fas fa-chevron-right text-secondary mr-3" aria-hidden="true"></span>
+    <span>Erfelijke dyslipidemie in de 2e en 3e lijn</span>
+</a></li>
+<li><a href="/richtlijn/herseninfarct_en_hersenbloeding" class="text-body hyperlink">
+    <span class="fas fa-chevron-right text-secondary mr-3" aria-hidden="true"></span>
+    <span>Herseninfarct en hersenbloeding</span>
+</a></li>
+<li><a href="/richtlijn/hypertensie_in_de_tweede_en_derde_lijn" class="text-body hyperlink">
+    <span class="fas fa-chevron-right text-secondary mr-3" aria-hidden="true"></span>
+    <span>Hypertensie in de tweede en derde lijn</span>
+</a></li>
+</ul>
+</div></div></section>                
+                
+            </article>

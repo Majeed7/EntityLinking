@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Entity Linking</title>
+	<meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <link rel="stylesheet" type="text/css" media="screen" href="main.css" /> -->
+
+<style type="text/css">
+	.main-section{
+	margin:0 auto;
+	padding: 20px;
+	margin-top: 100px;
+	background-color: #fff;
+	box-shadow: 0px 0px 20px #c1c1c1;
+}
+#custom_card{
+	background-color:grey;
+	color:#fff;
+	padding:10px;
+}
+#custom_card2{
+	background-color:#383838;
+	color:#fff;
+	padding:10px;
+}
+.container{
+	max-width: none!important;
+}
+
+.my-sidebar {
+    -ms-flex: 0 0 350px;
+    flex: 0 0 350px;
+} 
+</style>
+  
+    <!-- Font Awesome -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
+<!-- Bootstrap core CSS -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/css/bootstrap.min.css" rel="stylesheet">
+<!-- Material Design Bootstrap -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.7.3/css/mdb.min.css" rel="stylesheet">
+
+</head>
+<body>
+
+    <div class="jumbotron" style="background:#673AB7;color:#fff">
+        <div class="container">
+          <h2 class="display-3"> Entity Recognition in Dutch Clinical Guidelines </h2>
+          <p>Mapping the term to the entities in Dutch SNOMED/ICD10</p>
+          
+        </div>
+      </div>
+
+{% filter markdown %}
+#### Named Entity Recog
+=============
+{% endfilter %}
+<hr/>
+
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-4">
+        	<div class="card mb-10 shadow-sm" id="custom_card">
+				<h4>Original Data</h4>
+				<p>{{ rawtext }}</p>
+			
+		  	</div>
+		</div>
+
+		<div class="col-md-4">
+         	<div class="card mb-10 shadow-sm" id="custom_card2">
+				<h4>Result of Data</h4>
+				<p>{{ result|markdown }}</p>
+			
+			</div>
+		</div>
+
+		<div class="col-md3 my-sidebar">
+			<div class="card snomed">
+				<div class="card-body d-flex aos-init aos-animate" data-aos="zoom-out">
+					<div class="service-item position-relative">
+						<button type="button" class="close snomed-close" aria-label="Close">
+							<span aria-hidden="true">&times;</span>
+						  </button>
+						<div class="icon">
+							<i class="bi bi-activity icon"></i>
+						</div>
+						<h4><a href="" class="stretched-link" target="_blank"></a></h4>
+						<span class="snomed-class"></span>
+						<ul>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="card icd10">
+				<div class="card-body d-flex aos-init aos-animate" data-aos="zoom-out">
+					<div class="service-item position-relative">
+						<div class="icon">
+							<i class="bi bi-activity icon"></i>
+						</div>
+							<h4 style="color:#007bff">ICD10 Codes</h4>
+							<ul></ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="card richtlijnen">
+				<div class="card-body d-flex aos-init aos-animate" data-aos="zoom-out">
+					<div class="service-item position-relative">
+						<div class="icon">
+							<i class="bi bi-activity icon"></i>
+						</div>
+							<h4 style="color:#007bff">Links to Guidelines</h4>
+							<ul></ul>
+					</div>
+			</div>
+			
+		</div>
+	</div>
+	
+	
+
+
+</div>
+
+
+<!-- JQuery -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<!-- Bootstrap tooltips -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+<!-- Bootstrap core JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.min.js"></script>
+<!-- MDB core JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.7.3/js/mdb.min.js"></script>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$(".icd10").hide()
+		$(".richtlijnen").hide()
+		var entities = JSON.parse('{{ ents | tojson  }}');
+		console.log(entities)
+
+		$(window).bind( 'hashchange', function(e) { 
+    		var anchor = document.location.hash;
+            fillData(anchor.substring(1), entities);
+    	});
+
+		$('.snomed-close span').bind('click', function(e){
+			id = $(this).attr("target-id");
+			var item = Object.entries(entities).find(([key, ent]) => ent.id == id)[1];
+			entities = entities.filter(o=> o.id != item.id);
+			//debugger;
+			$selectedMark = $("a[href='#" + id + "']" ).parents("mark");
+			$("a[href='#" + id + "']" ).parents("span").remove();
+			$selectedMark.contents().unwrap();
+			$(".snomed").hide();
+			$(".icd10").hide();
+			$(".richtlijnen").hide();
+		});
+	});
+
+	function fillData(id, entities){
+		var item = Object.entries(entities).find(([key, ent]) => ent.id == id)[1];
+		//#ddd
+		$("mark.selectedLink").css({ "background" : "#dddd" }).removeClass("selectedLink");
+		$('a[href="#'+ id +'"]').parents("mark").css({ "background" : "#fcf8e3" }).addClass("selectedLink");
+		//$('a[href="#'+ id +'"]').parents("mark")
+		// SNOMED data filling
+		var main_concept = item.descriptions.filter( o => o.mainTerm)[0];
+		//Object.entries(item.snomed_desc).find(([key, ent]) => ent.IsMainTerm == true)[1]
+		$(".snomed a").attr("href", item.url);
+		$(".snomed a").html(main_concept.Term);
+		$(".snomed span.snomed-class").html("SCTID: " + main_concept.ConceptId)
+		$(".snomed-close span").attr("target-id", id)
+		
+		$(".snomed ul").html("");
+		for(cnpt of item.snomed_desc){
+			$(".snomed ul").append("<li>" + cnpt.Term + "</li>");
+		}
+		$(".snomed").show();
+		//ICD10 Data filling
+		$(".icd10 ul").html("");
+		if(item.icd10codes != null){	
+			for(cnpt of item.icd10codes)
+				$(".icd10 ul").append("<li>" + cnpt.Code + " | " + cnpt.Term + "</li>");
+			
+			$(".icd10").show();	
+		}
+		else 
+			$(".icd10").hide();
+
+		// Guidelines
+		$(".richtlijnen ul").html("")
+		if(item.guidelines != null && item.guidelines.length != 0){  //&& !item.guidelines.every(element => element == null)	
+			console.log(item.guidelines)
+			
+			$(".richtlijnen ul").append("<li><a href=https://richtlijnendatabase.nl/richtlijn" + item.guidelines.urls.url + ">" + item.guidelines.Title + "</a></li>");
+			
+			$(".richtlijnen").show();	
+		}
+		else
+			$(".richtlijnen").hide();
+	}
+</script>
+</body>
+</html>
+
+</body>
+</html>
