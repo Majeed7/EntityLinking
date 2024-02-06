@@ -1,6 +1,10 @@
 *.sqlite3
 icd10_labelchecking.ipynb 
 moduletagging.py 
+*.dtd
+*.rtf
+*.xml 
+*.xlsx
 
 TestFiles/
 RDAPI/
