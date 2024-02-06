@@ -5,6 +5,7 @@ moduletagging.py
 *.rtf
 *.xml 
 *.xlsx
+.gitignore 
 
 $ git check-ignore __pycache__/
 __pycache__/
