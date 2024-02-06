@@ -10,3 +10,4 @@ TestFiles/
 RDAPI/
 **/dbCreation/ICD10/
 ICD10/
+__pychache__/
