@@ -6,8 +6,10 @@ moduletagging.py
 *.xml 
 *.xlsx
 
+$ git check-ignore __pycache__/
 __pycache__/
-__pycache__/
+$ git check-ignore __pycache__
+__pycache__
 TestFiles/
 RDAPI/
 ICD10/
