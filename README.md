@@ -2,7 +2,7 @@
 ## A Framework for Unsupervised Entity Linking in Dutch Biomedical Texts
 
 ### Introduction
-EntityLinking is a sophisticated package designed specifically for unsupervised entity linking within Dutch biomedical texts. Utilizing an innovative unsupervised approach, this tool excels at identifying entities that closely resemble terms within a given text segment, correlating them with concepts from SNOMED. The methodology underpinning EntityLinking is particularly adept at navigating the complex landscape of biomedical terminology, providing valuable insights and connections to the SNOMED database without the need for supervised training.
+This package inlcudes an entity-linking method parituclalry tested on Dutch biomedical text. The method is unsupervised and identifies the similar entities to a part of text based on its similarity to the SNOMED concepts.
 
 ### Features
 - **Unsupervised Approach:** Operates without the need for manually labeled training data.
@@ -11,7 +11,7 @@ EntityLinking is a sophisticated package designed specifically for unsupervised 
 - **Customized Tokenization:** Features a specialized tokenizer designed to process HTML-formatted texts effectively, facilitating broader application.
 
 ### Installation
-To utilize EntityLinking, begin by constructing the necessary SNOMED and ICD-10 databases using scripts found in the `dbCreation` directory. Pre-built databases, reflecting the latest versions of SNOMED and ICD-10, are available for download at [SURFdrive](https://surfdrive.surf.nl/files/index.php/s/jtF1auvFjVIqbT7). After downloading, place these databases in the `data` folder and initiate a sample entity linking process by running `run_me.py`.
+To utilize the package, begin by constructing the necessary SNOMED and ICD-10 databases using scripts found in the `dbCreation` directory. Pre-built databases, reflecting the latest versions of SNOMED and ICD-10, are available for download at [here](https://surfdrive.surf.nl/files/index.php/s/jtF1auvFjVIqbT7). After downloading, place these databases in the `data` folder and initiate a sample entity linking process by running `run_me.py`.
 
 ### Credits
 EntityLinking draws inspiration and leverages certain functionalities from PymedTermino, specifically its SQLite text search capabilities. This integration allows for enhanced performance and flexibility in handling biomedical terminologies. (See [PymedTermino](https://github.com/MedevaKnowledgeSystems/pymedtermino))
@@ -21,18 +21,20 @@ Included in the package is a lightweight Flask application designed to visually 
 
 ### Requirements
 The core functionalities of EntityLinking depend on several third-party Python libraries listed below. These must be installed to ensure the package operates as intended:
-
+```
 gensim==4.2.0
 nltk==3.6.5
 numpy==1.22.4
 spacy==3.2.4
 toolz==0.11.1
-
+```
 
 Additional requirements for the Flask visualization app include:
 
 Flask==2.0.2
+
 Flask_Bcrypt==1.0.1
+
 html2text==2020.1.16
 
 
