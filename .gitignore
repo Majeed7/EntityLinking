@@ -7,6 +7,7 @@ moduletagging.py
 *.xlsx
 
 __pycache__/
+__pycache__/
 TestFiles/
 RDAPI/
 ICD10/
