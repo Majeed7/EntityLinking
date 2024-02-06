@@ -1,25 +1,20 @@
 # EntityLinking
+Unsupervised Entity Linking for (Dutch) Biomedical text
 
-
-https://surfdrive.surf.nl/files/index.php/s/jtF1auvFjVIqbT7
-
-
-
-# Package Name
-Unsupervised Entity Linking for Dutch Biomedical text
 ## Introduction
 This package inlcudes an entity-linking method parituclalry tested on Dutch biomedical text. The method is unsupervised and identifies the similar entities to a part of text based on its similarity to the SNOMED concepts.
 
 
 ## Features
-- It is unsupervised
-- It is tested for entity linking to SNOMED and ICD-10, both terminologies are stored in relational databases for fast search
-- The entity linking is based on a context-aware similarity metric that accounts for the context where the term in the text appears
-- It has a customized tokenization that can be applied dirctly to HTML-formatted texts
+- It is unsupervised;
+- It is tested for entity linking to SNOMED and ICD-10, both terminologies are stored in relational databases for fast search;
+- The entity linking is based on a context-aware similarity metric that accounts for the context where the term in the text appears;
+- It has a customized tokenization that can be applied dirctly to HTML-formatted texts;
 
 ## Installation
 The SNOMED and ICD-10 databases could be constructed from their files by running the scripts in folder dbCreation.
 Two databases based on the recent version of SNOMED and ICD-10 are created available at  https://surfdrive.surf.nl/files/index.php/s/jtF1auvFjVIqbT7 
+
 For running a sample entity linking, download the databases and place them in the folder data, then execute run_me.py
 
 ## Credits
@@ -39,7 +34,7 @@ doc = "Bij wie wordt het risico op hart en vaatziekten geschat. Voor veel patië
 
 el = EntityLinking(doc)
 print("Finished!")
-
+```
 
 ## Citing This Package
 
