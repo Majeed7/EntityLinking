@@ -5,5 +5,4 @@ moduletagging.py
 TestFiles/
 RDAPI/
 **/dbCreation/ICD10/
-**/ICD10/
-app/
+ICD10/
