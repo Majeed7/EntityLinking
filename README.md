@@ -53,6 +53,7 @@ print("Finished!")
 
 ### Citing This Package
 For academic use of EntityLinking or references within research, please cite the following publication:
+```
 @article{crosslinking_clinicalguideline,
   title={Cross-linking clinical practice guideline for multimorbidity},
   author={Majid Mohammadi, Annette ten Teije, Tim Christen, Janke de Groot, Marlies Verheoff},
@@ -64,6 +65,7 @@ For academic use of EntityLinking or references within research, please cite the
   publisher={Elsevier},
   doi={10.xxxx/xxxxxx}
 }
+```
 
 ### Contact
 For any questions or inquiries regarding the EntityLinking package, please feel free to reach out to Majid Mohammadi (majid.mohammadi690@gmail.com). We welcome your feedback and are here to assist with any issues or clarifications you may need.
